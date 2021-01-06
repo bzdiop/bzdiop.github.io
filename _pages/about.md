@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate at the Department of Economics of the University of Oxford. 
+I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). 
 
 My research is in applied micro economics, with a focus on health and migrations. I am interested in understanding what are the factors --- frictions, preferences, etc. -- that influence individuals decisions to relocate within a country. 
 
