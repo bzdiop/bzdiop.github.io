@@ -30,5 +30,5 @@ Later published in _Science_ under the title “[Behavioral nudges reduce failur
   
 **Migration Decisions: Frictions vs. Preferences**  
   
-**Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities**
+**Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities**  
 Joint with [Ismaila H](https://www.researchgate.net/profile/Hamza_Ismaila), Awoonor-Williams K, Ofosu A, [Williams M J](https://martinjwilliams.com/)  
