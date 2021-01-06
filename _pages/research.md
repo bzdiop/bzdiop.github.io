@@ -19,7 +19,7 @@ Joint with Awoonor-Williams K, Ofosu A, [Williams M J](https://martinjwilliams.c
 _The International Growth Center_    
    
 (Pre-PhD) [**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
-Joint with Cooke B, Fishbane A, Hayes J, [Ouss A](https:/www.aouss.github.io/), [Shah A K](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah) 
+Joint with Cooke B, Fishbane A, Hayes J, [Ouss A](https:/www.aouss.github.io/), [Shah A K](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & Ideas4_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)"  
@@ -32,4 +32,5 @@ Later published in _Science_ under the title “[Behavioral nudges reduce failur
   
 **Migration Decisions: Frictions vs. Preferences**  
 
-**Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities** with [Ismaila H](https://www.researchgate.net/profile/Hamza_Ismaila), Awoonor-Williams K, Ofosu A, [Williams M J](https://martinjwilliams.com/)  
+**Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities**
+Joint with [Ismaila H](https://www.researchgate.net/profile/Hamza_Ismaila), Awoonor-Williams K, Ofosu A, [Williams M J](https://martinjwilliams.com/)  
