@@ -12,7 +12,7 @@ author_profile: true
 Coverage: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
 
 ### Policy Reports 
-“[Using administrative data to measure the productivity and allocation of health workers and funds:Lessons from Ghana](https://www.theigc.org/wp-content/uploads/2020/01/Diop-et-al-2019-Policy-Brief.pdf)”, The International Growth Center 2019 with Awoonor-Williams K, Ofosu A, [Williams M J](https://martinjwilliams.com/)
+“[Using administrative data to measure the productivity and allocation of health workers and funds:Lessons from Ghana](https://www.theigc.org/wp-content/uploads/2020/01/Diop-et-al-2019-Policy-Brief.pdf)”, The International Growth Center 2019 with Awoonor-Williams K, Ofosu A, [Williams M J](https://martinjwilliams.com/)		
  
 (Pre-PhD) “[Using Behavioral Science to Improve Criminal Justice Outcome](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)” , University of Chicago Crime Lab & Ideas4 2018 with Cooke B, Fishbane A, Hayes J, [Ouss A](https:/www.aouss.github.io/), [Shah A K](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" 
