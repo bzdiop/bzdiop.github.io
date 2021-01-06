@@ -38,9 +38,9 @@ Later published in _Science_ under the title “[Behavioral nudges reduce failur
 
 ## Work in progress 
 
-**Fertilizer Subsidies as a Driver of Migration and Technology Adoption: Theory and Evidence from the Zambian Fertilizer Support Program**  
+Fertilizer Subsidies as a Driver of Migration and Technology Adoption: Theory and Evidence from the Zambian Fertilizer Support Program  
   
-**Migration Decisions: Frictions vs. Preferences**  
+Migration Decisions: Frictions vs. Preferences  
   
-**Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities**  
+Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities  
 Joint with [Ismaila H](https://www.researchgate.net/profile/Hamza_Ismaila), Awoonor-Williams K, Ofosu A, [Williams M J](https://martinjwilliams.com/)  
