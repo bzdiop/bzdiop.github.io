@@ -14,7 +14,7 @@ I am a PhD candidate at the [Department of Economics of the University of Oxford
 
 My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences -- that influence individuals decisions to relocate within a country. 
 
-Prior to starting my PhD, I was a staff researcher at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/labs/crime), and supported health-focused at the [gui2de](https://gui2de.georgetown.edu/#). 
+Prior to starting my PhD, I was a staff researcher at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/labs/crime), and at [gui2de](https://gui2de.georgetown.edu/#). 
 
 
 ## Research
