@@ -33,7 +33,7 @@ Joint with Koku Awoonor-Williams, Anthony Ofosu, [Martin J. Williams](https://ma
 _The International Growth Center_    
    
 Pre-PhD: [**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
-Joint with Brice Cooke, Alyssa Fishbane, Jonathan Hayes, [Aurelie Ouss](https:/www.aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+Joint with Brice Cooke, Alyssa Fishbane, Jonathan Hayes, [Aurelie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & Ideas4_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)"  
