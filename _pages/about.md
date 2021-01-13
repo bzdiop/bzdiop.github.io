@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+## About me
 
 I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). 
 
@@ -19,7 +19,6 @@ At the University of Oxford, I am also a teaching assistant for the Quantitative
 Prior to starting my PhD, I was a staff researcher at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/labs/crime), and previously at [gui2de](https://gui2de.georgetown.edu/#). 
 
 
-# Research
 
 ## Work in progress 
 
