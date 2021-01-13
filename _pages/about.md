@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+# About me
 
 I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). 
 
@@ -19,9 +19,9 @@ At the University of Oxford, I am also a teaching assistant for the Quantitative
 Prior to starting my PhD, I was a staff researcher at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/labs/crime), and previously at [gui2de](https://gui2de.georgetown.edu/#). 
 
 
-## Research
+# Research
 
-### Work in progress 
+## Work in progress 
 
 **Fertilizer Subsidies as a Driver of Migration and Technology Adoption: Theory and Evidence from the Zambian Fertilizer Support Program**  
 * **Abstract**: This paper investigates the potential channels through which a fertilizer subsidy program to rural households can change their fertilizer adoption and migration decisions. I first sketch a simple model with heterogeneous households sorting across three types: i) users of the subsidized fertilizer, ii) re-sellers of the subsidized fertilizer who engage in traditional agriculture, and iii) re-sellers of the subsidized fertilizer who outmigrate. Sorting occurs primarily through the comparative advantage each household has in the two agricultural technologies and migration as well as through the relaxation of credit constraints. I find evidence of this underlying heterogeneity using a longitudinal survey of farmers in Zambia; I quantify the share of households sorting into migration using a double-difference estimation. As predicted by the model, there is an increase in the intensity of outmigration for members of the households who receive the subsidy. However, households with no history of migration, double-down in agriculture and migrate less than those who did not receive the subsidy. These results confirm the predictions of the model and suggest that the fertilizer program in Zambia has heterogeneous impacts: the opportunity cost of migration dominates for household who have a comparative advantage in the improved technology, but the income effect prevails for those who have a comparative advantage in migrating. These findings suggest that better targeted policies and access to credit can improve the efficiency of labor allocations within countries.   
@@ -31,14 +31,14 @@ Prior to starting my PhD, I was a staff researcher at the [University of Chicago
 **Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities**  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 
-### Publications
+## Publications
 
 [**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699) (2020)  
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Coverage**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
 
-### Policy Reports 
+## Policy Reports 
 
 [**Using administrative data to measure the productivity and allocation of health workers and funds: Lessons from Ghana**](https://www.theigc.org/wp-content/uploads/2020/01/Diop-et-al-2019-Policy-Brief.pdf) (2019)  
 Joint with Koku Awoonor-Williams, Anthony Ofosu, Martin J. Williams 
