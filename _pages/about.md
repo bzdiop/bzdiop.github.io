@@ -25,9 +25,9 @@ I was previously a research staff at the [University of Chicago Crime Lab and Ur
 **Fertilizer Subsidies as a Driver of Migration and Technology Adoption: Theory and Evidence from the Zambian Fertilizer Support Program**  
 * **Abstract**: Low productivity agriculture employs a large share of the labor force in many poor countries. Governments often opt for price-distorting agricultural input subsidies to increase technology adoption, rather than investments to improve the sectoral and geographic misallocation of labor. This paper investigates the channels through which a fertilizer subsidy program to rural households can change both their fertilizer adoption and their migration decisions. I first sketch a simple model with heterogeneous households sorting across three types: i) users of the subsidized fertilizer, ii) re-sellers of the subsidized fertilizer who engage in traditional agriculture, and iii) re-sellers of the subsidized fertilizer who outmigrate. 
 I find evidence of this underlying heterogeneity using a longitudinal survey of farmers in Zambia. I quantify the share of households sorting into migration using a double-difference estimation. As predicted by the model, there is an increase in the intensity of outmigration for members of the households who receive the subsidy. However, households with no history of migration double-down in agriculture and migrate less. Results suggest that he opportunity cost of migration dominates for household who have a comparative advantage in the improved technology, but the income effect prevails for those who have a comparative advantage in migrating. These findings suggest that better targeted policies and access to credit can improve the efficiency of labor allocations within countries. 
-  
+---  
 **Migration Decisions: Frictions vs. Preferences**  
-  
+---  
 **Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities**  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 
@@ -43,7 +43,7 @@ _BMJ Global Health 2020;5:e002699_
 [**Using administrative data to measure the productivity and allocation of health workers and funds: Lessons from Ghana**](https://www.theigc.org/wp-content/uploads/2020/01/Diop-et-al-2019-Policy-Brief.pdf) (2019)  
 Joint with Koku Awoonor-Williams, Anthony Ofosu, Martin J. Williams  
 _The International Growth Center_    
-   
+---   
 Pre-PhD: [**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
 Joint with Brice Cooke, Alyssa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
