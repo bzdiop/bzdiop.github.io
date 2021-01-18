@@ -42,7 +42,8 @@ _BMJ Global Health 2020;5:e002699_
 Joint with Koku Awoonor-Williams, Anthony Ofosu, Martin J. Williams  
 _The International Growth Center_    
 
-Pre-PhD: [**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
+Pre-PhD:  
+[**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
 Joint with Brice Cooke, Alyssa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
