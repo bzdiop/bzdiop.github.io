@@ -57,10 +57,6 @@ _BMJ Global Health 2020;5:e002699_
 
 ## Policy Reports 
 
-[**Using administrative data to measure the productivity and allocation of health workers and funds: Lessons from Ghana**](https://www.theigc.org/wp-content/uploads/2020/01/Diop-et-al-2019-Policy-Brief.pdf) (2019)  
-Joint with Koku Awoonor-Williams, Anthony Ofosu, Martin J. Williams  
-_The International Growth Center_    
-
 Pre-PhD:  
 [**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
 Joint with Brice Cooke, Alyssa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
