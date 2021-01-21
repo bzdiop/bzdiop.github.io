@@ -55,9 +55,8 @@ _BMJ Global Health 2020;5:e002699_
 
 
 
-## Policy Reports 
-
-Pre-PhD:  
+## Policy Reports (Pre-PhD) 
+  
 [**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
 Joint with Brice Cooke, Alyssa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
