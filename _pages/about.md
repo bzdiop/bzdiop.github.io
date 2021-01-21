@@ -27,9 +27,9 @@ Fertilizer Subsidies as a Driver of Migration and Technology Adoption: Theory an
 <summary>Abstract</summary>
 This paper investigates the potential channels through which a fertilizer subsidy program to rural households can change their fertilizer adoption and migration decisions. I first sketch a simple model with heterogeneous households sorting across three types: i) users of the subsidized fertilizer, ii) re-sellers of the subsidized fertilizer who engage in traditional agriculture, and iii) re-sellers of the subsidized fertilizer who outmigrate. Sorting occurs primarily through the comparative advantage each household has in the two agricultural technologies and migration as well as through the relaxation of credit constraints. I find evidence of this underlying heterogeneity using a longitudinal survey of farmers in Zambia; I quantify the share of households sorting into migration using a double-difference estimation. As predicted by the model, there is an increase in the intensity of outmigration for members of the households who receive the subsidy. However, households with no history of migration, double-down in agriculture and migrate less than those who did not receive the subsidy. These results confirm the predictions of the model and suggest that the fertilizer program in Zambia has heterogeneous impacts: the opportunity cost dominates for household who have a comparative advantage in the improved technology, but the income effect prevails for those who have a comparative advantage in migrating. These findings suggest that better targeted policies and access to credit can improve the efficiency of labor allocations within countries.
 </details>  
-   
+---  
 Migration Decisions: Frictions vs. Preferences  
-  
+---  
 Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 
@@ -39,11 +39,8 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Coverage**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
-
-
 <details>
 <summary>Abstract</summary>
-  
 **Introduction**: A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.
 
 **Methods** We use an augmented deterministic Susceptible-Infected-Recovered model to predict the true spread of the disease, under the containment measures taken so far. We disaggregate the infected compartment into asymptomatic, mildly symptomatic and severely symptomatic to match observed clinical development of COVID-19. We also account for age structures, urbanisation and comorbidities (HIV, tuberculosis, anaemia).
