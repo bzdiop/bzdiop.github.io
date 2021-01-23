@@ -36,6 +36,7 @@ This paper investigates the potential channels through which a fertilizer subsid
 ---  
 Migration Decisions: Frictions vs. Preferences  
       
+ **** 
 Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 
