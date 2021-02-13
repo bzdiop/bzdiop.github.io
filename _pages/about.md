@@ -23,7 +23,7 @@ I was previously a research staff at the [University of Chicago Crime Lab and Ur
 ## Work in progress 
 
 Fertilizer Subsidies as a Driver of Migration and Technology Adoption: Theory and Evidence from the Zambian Fertilizer Support Program  
-**Scheduled presentations**: 2021 Midwest International Economic Development Conference (Virtual)
+**Scheduled presentation**: 2021 Midwest International Economic Development Conference (Virtual)
 <details>
 <summary>Abstract</summary> 
   <p style="text-align:justify">
@@ -48,7 +48,7 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
-**Presented at**: World Health Organization TC Moodeling Series  
+**Presention**: World Health Organization TC Modeling Series (June 2020) 
 <details>
 <summary>Abstract</summary>
     <p style="text-align:justify">
