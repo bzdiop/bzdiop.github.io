@@ -46,7 +46,8 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 [**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699) (2020)  
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
-**Coverage**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
+**Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
+**Presented at**: World Health Organization TC Moodeling Series  
 <details>
 <summary>Abstract</summary>
     <p style="text-align:justify">
