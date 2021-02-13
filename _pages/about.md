@@ -48,7 +48,7 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
-**Presention**: World Health Organization TC Modeling Series (June 2020) 
+**Presentation**: World Health Organization TC Modeling Series (June 2020) 
 <details>
 <summary>Abstract</summary>
     <p style="text-align:justify">
