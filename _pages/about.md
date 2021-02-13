@@ -23,6 +23,7 @@ I was previously a research staff at the [University of Chicago Crime Lab and Ur
 ## Work in progress 
 
 Fertilizer Subsidies as a Driver of Migration and Technology Adoption: Theory and Evidence from the Zambian Fertilizer Support Program  
+**Scheduled presentations**: 2021 Midwest International Economic Development Conference (Virtual)
 <details>
 <summary>Abstract</summary> 
   <p style="text-align:justify">
