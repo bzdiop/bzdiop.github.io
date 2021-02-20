@@ -66,7 +66,7 @@ _BMJ Global Health 2020;5:e002699_
 ## Policy Reports (Pre-PhD) 
   
 [**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf) (2018)  
-Joint with Brice Cooke, Alyssa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+Joint with Brice Cooke, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)"  
