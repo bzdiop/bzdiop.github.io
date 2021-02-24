@@ -46,7 +46,7 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 #### Code  
 R and Stata: [**Autogenerate your folder structure**](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)  
 Unix: [**Compiliing .tex files to .docx**](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)    
-Stata: [**Simulations-based power calculations **](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)  
+Stata: [**Simulations-based power calculations**](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)  
 
 #### Peer-reviewed
 [**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699) (2020)  
