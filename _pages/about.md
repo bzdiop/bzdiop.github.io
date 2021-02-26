@@ -22,7 +22,7 @@ I was previously a research staff at the [University of Chicago Crime Lab and Ur
 
 ## Work in progress 
 
-Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia  
+"Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia"  
 **Scheduled presentations (2021)**: Midwest International Economic Development Conference, AMIE Workshop in Applied Microeconomics
 <details>
 <summary>Abstract</summary> 
@@ -36,17 +36,19 @@ I find evidence of this underlying heterogeneity using a longitudinal survey of 
 
   
 ---  
-Migration Decisions: Frictions vs. Preferences  
+"Migration Decisions: Frictions vs. Preferences"  
       
  **** 
-Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities  
+"Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities"  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 
 
 ## Code   
-R and Stata: [Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf) (2020)  
-Unix: [Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf) (2020)   
-Stata: [Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf) (2019)
+"[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (Stata, 2019)  
+"[Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)" (Unix, 2020)   
+"[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (R and Stata, 2020)  
+
+
 
 
 
