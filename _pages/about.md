@@ -36,7 +36,8 @@ I find evidence of this underlying heterogeneity using a longitudinal survey of 
 
   
 ---  
-"Migration Decisions: Frictions vs. Preferences"  
+"Migration Decisions: Frictions vs. Preferences"   
+**Presentation**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
       
  **** 
 "Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities"  
