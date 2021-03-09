@@ -49,24 +49,11 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 "[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (2020) - R and Stata   
 
 
-
-
-
-## Policy Reports (Pre-PhD) 
-"[Using Behavioral Science to Improve Criminal Justice Outcome](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
-Joint with Brice Cooke, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
-_University of Chicago Crime Lab & ideas42_    
-**Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
-Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)"  
-
-
-
-
 ## Publications
 "[The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study](https://gh.bmj.com/content/5/5/e002699)" (2020)  
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
-**Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point 
+**Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
 **Presentation**: World Health Organization TC Modeling Series (June 2020) 
 <details>
 <summary>Abstract</summary>
@@ -79,4 +66,15 @@ _BMJ Global Health 2020;5:e002699_
   </font>
   </p>
 </details>
+
+
+## Policy Reports (Pre-PhD) 
+"[Using Behavioral Science to Improve Criminal Justice Outcome](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
+Joint with Brice Cooke, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+_University of Chicago Crime Lab & ideas42_    
+**Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
+Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)"  
+
+
+
 
