@@ -16,7 +16,7 @@ My research is in applied microeconomics, with a focus on health and migrations.
 
 I am a teaching assistant for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516), and I co-organize conferences on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
-I was previously a research staff at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). I hold a Master's Degree from the Paris School of Economics, and a _Licence_ from Université Paris Nanterre.  
+I was previously a research staff at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). <!-- I hold a Master's Degree from the Paris School of Economics, and a _Licence_ from Université Paris Nanterre.-->   
 
 
 
