@@ -21,7 +21,7 @@ I was previously a research staff at the [University of Chicago Crime Lab and Ur
 ## Work in progress 
 
 "Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia"  
-**Scheduled presentations (2021)**: Midwest International Economic Development Conference, AMIE Workshop in Applied Microeconomics
+**Scheduled presentations (2021)**: Econometric Society Africa Meeting, Midwest International Economic Development Conference, AMIE Workshop in Applied Microeconomics
 <details>
 <summary>Abstract</summary> 
   <p style="text-align:justify">
@@ -37,7 +37,7 @@ I explore how an input subsidy aimed at improving productivity can change migrat
 **Presentation**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
       
  **** 
-"Quantifying the Health Benefits of Hiring More: The Productivity and Allocation of Labor across Ghana's Health Facilities"  
+"The Productivity and Allocation of Labor across Ghana's Health Facilities"  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 
 
