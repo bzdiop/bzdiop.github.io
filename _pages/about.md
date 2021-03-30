@@ -39,7 +39,7 @@ I explore how an input subsidy aimed at improving productivity can change migrat
  **** 
 "The Productivity and Allocation of Labor across Ghana's Health Facilities"  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
-
+**Presentation**: WGAPE (2019), ODI Public Finance conference (2020)  
 
 ## Code   
 "[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
