@@ -41,7 +41,7 @@ For futher questions regarding logistics, please contact [oxfordaiecon@maillist.
     * **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.  
     * **Buffer:** Please join the call at 2:45pm to set up the call and make you all co-hosts before you join.  
 * **Discussion:** If you are free, please join us on both days. You can join the panel even on days you are not presenting. If you'd rather be an attendee (and  
-* **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) (Max and Binta), and we will post them on this website before the conference.  
+* **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) (Max and Binta), and we will post them on this website before the conference.
 ### Zoom 
 * **Location:** Zoom -- we have shared the zoom link via email.  
 * **Being a Panelist:** You have been invited to the conference as a panelist. This means that you will be in a regular Zoom room with other panelists (with a possibility to have a camera and a microphone on), while the audience will be attendees (with cameras and microphones on).  
