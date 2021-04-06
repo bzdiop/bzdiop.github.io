@@ -16,7 +16,7 @@ This page is to provide information to speakers at the ML and economic inequalit
   <p style="text-align:justify">
   <font size="-0.5">
 Questions regarding the fairness of algorithmic decision-making have received much attention in recent years, by both the wider public and in academic debates.
-In this workshop, motivated by the arguments discussed in [Fairness, Equality, and Power](/home/files/papers/fairness_equality_power.pdf), we propose to shift the focus of these debates toward the causal impact of machine learning, AI, and algorithmic decision-making on economic and social inequality, both across and within groups.
+In this workshop, motivated by the arguments discussed in <a href="/home/files/papers/fairness_equality_power.pdf">Fairness, Equality, and Power</a>, we propose to shift the focus of these debates toward the causal impact of machine learning, AI, and algorithmic decision-making on economic and social inequality, both across and within groups.
 This workshop aims to bring together participants from several fields, including economics, computer science, statistics, law, sociology, and social policy.
 Talks will cover theoretical and empirical aspects, and both normative and positive questions.
 
