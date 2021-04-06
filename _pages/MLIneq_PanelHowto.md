@@ -12,14 +12,21 @@ excerpt: April 19-20, 2021
 
 
 
-## Logistics
+## Logistics  
+For futher questions regarding logistics, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) -- which would be distributed to both Maximilian Kasy Binta Zahra Diop who are organizing the conference.
+### Panel and presentations
 * **Date:** April 19-20, 2021 --- From 3pm to 8pm (UK TIME)  
-* **Buffer:** Please join the call at 2:45pm to set up the call and make you all co-hosts before you join.  
+* * **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.  
+* * **Buffer:** Please join the call at 2:45pm to set up the call and make you all co-hosts before you join.  
 * **Discussion:** If you are free, please join us on both days. You can join the panel even on days you are not presenting. If you'd rather be an attendee (and  
 * **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) (Max and Binta), and we will post them on this website before the conference.  
+### Zoom 
 * **Location:** Zoom -- we have shared the zoom link via email.  
-* **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.
-* **Contact:** For logistical questions, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) -- which would be distributed to both Maximilian Kasy Binta Zahra Diop who are organizing the conference.
+* **Being a Panelist:** You have been invited to the conference as a panelist. This means that you will be in a regular Zoom room with other panelists (with a possibility to have a camera and a microphone on), while the audience will be attendees (with cameras and microphones on).  
+* * To log in, press the link, and that's it. 
+* * If you have issues logging-in, email [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk)
+
+
 
 ## Permissions
 * **Videos** of talks will be recorded, live-streamed on the [YouTube channel of the conference](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag) and posted online; please let us know if you don't want to be recorded.  
