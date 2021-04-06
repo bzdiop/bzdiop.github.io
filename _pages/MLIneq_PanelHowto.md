@@ -35,7 +35,7 @@ Possible topics for this conference include, but are not restricted to:
 
 
 ## Logistics  
-For futher questions regarding logistics, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) -- which would be distributed to both Maximilian Kasy Binta Zahra Diop who are organizing the conference.
+For futher questions regarding logistics, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) -- which would be distributed to both Maximilian Kasy and Binta Zahra Diop who are organizing the conference.
 ### Panel and presentations
 * **Date:** April 19-20, 2021 -- From 3pm to 8pm (UK TIME)  
     * **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.  
