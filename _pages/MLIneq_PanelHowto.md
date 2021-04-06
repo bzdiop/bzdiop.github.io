@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.15"
-  overlay_image: /files/other/Stephen-Vitiello-cropped_bw.jpg
+  overlay_image: /files/Stephen-Vitiello-cropped_bw.jpg
   caption: "Image credit: Stephen Vitiello (edited)"
 excerpt: April 19-20, 2021
 ---
