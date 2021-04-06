@@ -10,12 +10,34 @@ header:
 excerpt: April 19-20, 2021
 ---
 
+This page is to provide information to speakers at the ML and economic inequality conference hosted by Maximilian Kasy at the University of Oxford. The public page of the conference is the following: [https://maxkasy.github.io/home/ML_inequality_conference/](https://maxkasy.github.io/home/ML_inequality_conference/).  
+<details>
+<summary>Public description of the conference</summary> 
+  <p style="text-align:justify">
+  <font size="-0.5">
+Questions regarding the fairness of algorithmic decision-making have received much attention in recent years, by both the wider public and in academic debates.
+In this workshop, motivated by the arguments discussed in [Fairness, Equality, and Power](/home/files/papers/fairness_equality_power.pdf), we propose to shift the focus of these debates toward the causal impact of machine learning, AI, and algorithmic decision-making on economic and social inequality, both across and within groups.
+This workshop aims to bring together participants from several fields, including economics, computer science, statistics, law, sociology, and social policy.
+Talks will cover theoretical and empirical aspects, and both normative and positive questions.
+
+Possible topics for this conference include, but are not restricted to:
+- Theories of justice and social choice theory, concepts of fairness and discrimination.
+- Learning theory, supervised learning, and targeted treatment assignment.
+- The impact of algorithmic, individualized treatment in pricing, hiring, promotion, and credit scoring on economic inequality.
+- Social welfare analysis and optimal policy theory.
+- The labor market impact of new technologies, automation, and gig work.
+- The political economy of surveillance, data collection, and ownership.
+- Algorithmic management and labor law.
+
+    </font>
+    </p>
+  </details> 
 
 
 ## Logistics  
 For futher questions regarding logistics, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) -- which would be distributed to both Maximilian Kasy Binta Zahra Diop who are organizing the conference.
 ### Panel and presentations
-* **Date:** April 19-20, 2021 --- From 3pm to 8pm (UK TIME)  
+* **Date:** April 19-20, 2021 -- From 3pm to 8pm (UK TIME)  
     * **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.  
     * **Buffer:** Please join the call at 2:45pm to set up the call and make you all co-hosts before you join.  
 * **Discussion:** If you are free, please join us on both days. You can join the panel even on days you are not presenting. If you'd rather be an attendee (and  
