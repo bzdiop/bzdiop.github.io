@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.15"
-  overlay_image: /images/Stephen-Vitiello-cropped_bw.jpg
+  overlay_image:  bzdiop.github.io/images/Stephen-Vitiello-cropped_bw.jpg 
   caption: "Image credit: Stephen Vitiello (edited)"
 excerpt: April 19-20, 2021
 ---
@@ -59,7 +59,7 @@ For futher questions regarding logistics, please contact [oxfordaiecon@maillist.
 3:00pm Maximilian Kasy (Economics)  
 *Opening remarks*  
 
-3:10pm Rediet Abebe (Computer Science)  
+3:10pm Abigail Adams-Prassl (Economics)
 
 4:00pm Reuben Binns (Computer Science)  
  
@@ -68,7 +68,7 @@ For futher questions regarding logistics, please contact [oxfordaiecon@maillist.
 
 ---
 
-5:10pm Abigail Adams-Prassl (Economics)  
+5:10pm Rediet Abebe (Computer Science)  
 
 6:00pm Joshua Loftus (Statistics)  
 
