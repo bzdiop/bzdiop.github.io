@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.15"
-  overlay_image:  /images/Stephen-Vitiello-cropped_bw.jpg 
+  overlay_image:  /images/Stephen-Vitiello-cropped.jpg 
   caption: "Image credit: Stephen Vitiello (edited)"
 excerpt: April 19-20, 2021
 ---
@@ -52,7 +52,7 @@ For futher questions regarding logistics, please contact [oxfordaiecon@maillist.
 
 ## Permissions
 * **Videos** of talks will be recorded, live-streamed on the [YouTube channel of the conference](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag) and posted online; please let us know if you don't want to be recorded.  
-* **Consent forms** to record you are required by the University of Oxford -- please fill-out [this form](files/Misc/Photography consent form - 0919.pdf) . 
+* **Consent forms** to record you are required by the University of Oxford -- please fill-out [this form](/files/Misc/Photography consent form - 0919.pdf) . 
 
 ## Schedule 
 ### Monday, April 19
