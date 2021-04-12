@@ -51,7 +51,7 @@ For futher questions regarding logistics, please contact [oxfordaiecon@maillist.
 
 
 ## Permissions
-* **Videos** of talks will be recorded, live-streamed on the [YouTube channel of the conference](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag) and posted online; please let us know if you don't want to be recorded.  
+* **Recordings:** Talks will be recorded, live-streamed on the [YouTube channel of the conference](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag) and posted online; please let us know if you don't want to be recorded.  
 * **Consent forms** to record you and share the videos publicly are required by the University of Oxford -- please fill-out [this form](/files/Misc/Photography consent form - 0919.pdf) and send it to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) (Max and Binta). 
 
 ## Schedule 
