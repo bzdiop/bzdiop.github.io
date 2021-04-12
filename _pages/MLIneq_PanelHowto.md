@@ -40,11 +40,11 @@ For futher questions regarding logistics, please contact [oxfordaiecon@maillist.
 * **Date:** April 19-20, 2021 -- From 3pm to 8pm (UK TIME)  
     * **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.  
     * **Buffer:** Please join the call at 2:45pm to set up the call and make you all co-hosts before you join.  
-* **Discussion:** If you are free, please join us on both days. You can join the panel even on days you are not presenting. If you'd rather be an attendee (and  
+* **Discussion:** Please join us on both days, if at all possible. You will be assigned to the panel on both days.
 * **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) (Max and Binta), and we will post them on this website before the conference.  
 ### Zoom 
 * **Location:** Zoom -- we have shared the zoom link via email.  
-* **Being a Panelist:** You have been invited to the conference as a panelist. This means that you will be in a regular Zoom room with other panelists (with a possibility to have a camera and a microphone on), while the audience will be attendees (with cameras and microphones on).  
+* **Being a Panelist:** You have been invited to the conference as a panelist. This means that you will be in a regular Zoom room with other panelists (with a possibility to have a camera and a microphone on), while the audience will be attendees (with cameras and microphones off).  
     * To log in, press the link, and that's it. 
     * If you have issues logging-in, email [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk)
 
@@ -52,7 +52,7 @@ For futher questions regarding logistics, please contact [oxfordaiecon@maillist.
 
 ## Permissions
 * **Videos** of talks will be recorded, live-streamed on the [YouTube channel of the conference](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag) and posted online; please let us know if you don't want to be recorded.  
-* **Consent forms** to record you are required by the University of Oxford -- please fill-out [this form](/files/Misc/Photography consent form - 0919.pdf) . 
+* **Consent forms** to record you and share the videos publicly are required by the University of Oxford -- please fill-out [this form](/files/Misc/Photography consent form - 0919.pdf) and send it to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk) (Max and Binta). 
 
 ## Schedule 
 ### Monday, April 19
