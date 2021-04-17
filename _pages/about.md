@@ -34,12 +34,12 @@ I explore how an input subsidy aimed at improving productivity can change migrat
   
 ---  
 "Migration Decisions: Frictions vs. Preferences"   
-**Presentation**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
+**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
       
  **** 
 "The Productivity and Allocation of Labor across Ghana's Health Facilities"  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
-**Presentation**: WGAPE (2019), ODI Public Finance conference (2020)  
+**Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 
 ## Code   
 "[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
@@ -47,7 +47,7 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 "[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (2020) - R and Stata   
 
 
-## Publications
+## Publication
 "[The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study](https://gh.bmj.com/content/5/5/e002699)" (2020)  
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
