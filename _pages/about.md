@@ -42,6 +42,11 @@ I explore how an input subsidy aimed at improving productivity can change migrat
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 
+ **** 
+"An experimental task to elicit preferences over fairness rules governing AI algorithms"  
+Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
+
+
 ## Code   
 "[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
 "[Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)" (2020) - Unix    
