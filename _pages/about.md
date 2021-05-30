@@ -14,19 +14,18 @@ I am a PhD candidate at the [Department of Economics of the University of Oxford
 
 I am a teaching assistant for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516), and I co-organize conferences on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
-I was previously a research staff at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). <!-- I hold a Master's Degree from the Paris School of Economics, and a _Licence_ from Université Paris Nanterre.-->   
-
+I was previously a research staff at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). 
 
 
 ## Work in progress 
 
 "Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia"  
-**Scheduled presentations (2021)**: 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference
+**Presentations (2021)**: Africa Meeting of the Econometric Society (scheduled), 10th European Meeting of the Urban Economics Association (scheduled), Midwest International Economic Development Conference (scheduled)  
 <details>
 <summary>Abstract</summary> 
   <p style="text-align:justify">
   <font size="-0.5">
-I explore how an input subsidy aimed at improving productivity can change migration decisions of credit constrained farmers.  First farmers make a joint decision between using the subsidized fertilizer as an input in their agricultural technology and reselling it to generate income and migrate. Then, if farmers chose to resell their subsidized fertilizers, they act on two margins: either send individual members to outmigrate, or migrate with their household entirely. I model this decision using a discrete choice framework; I find that the decision to either use the improved technology or to migrate depends on a household's comparative advantage in either. Whether a household migrates or sends outmigrants however depends on how binding their credit constraint is. Using data from Zambia, I find that the implications of the model holds and that about 10\% of households respond to the subsidy by sending members to migrate, implying an income effect. I find that households migrate less, implying that the opportunity cost of the subsidy dominates on this margin and households would rather not migrate entirely to keep receiving the subsidy. This paper adds to our still meager understanding how subsidies intending to increase agricultural productivity can change a broader set of decisions, including migration decisions.  
+I explore how agricultural input subsidies change migration decisions of credit-constrained farmers.  Farming households make a joint-decision between using the subsidy as an input and using resale markets to generate income and migrate. They allocate labor units on the basis of their comparative advantage in agricultural technologies and in migration. Whether farmers migrate with their household or alone depends on how binding their credit constraint is. The implications of the model hold in a panel of Zambian smallholders in 2001-2008 with a large number of households responding to the subsidy by sending members to migrate, or by migrating altogether implying an income effect. This paper adds to our understanding of how subsidies intending to increase agricultural productivity can change a broader set of decisions, including migration decisions and speak to different margins of its migration decision. 
     </font>
     </p>
   </details> 
@@ -40,11 +39,6 @@ I explore how an input subsidy aimed at improving productivity can change migrat
 "The Productivity and Allocation of Labor across Ghana's Health Facilities"  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
-
-## Code   
-"[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
-"[Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)" (2020) - Unix    
-"[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (2020) - R and Stata   
 
 
 ## Publication
@@ -66,12 +60,18 @@ _BMJ Global Health 2020;5:e002699_
 </details>
 
 
+## Code Published   
+"[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
+"[Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)" (2020) - Unix    
+"[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (2020) - R and Stata   
+
+
 ## Policy Reports (Pre-PhD) 
 "[Using Behavioral Science to Improve Criminal Justice Outcome](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
 Joint with Brice Cooke, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
-Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)"  
+Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
 
 
 
