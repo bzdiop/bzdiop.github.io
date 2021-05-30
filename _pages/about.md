@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
-I am a teaching assistant for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516), and I co-organize conferences on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
+I am a teaching assistant for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516). I co-organized a conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
 I was previously a research staff at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). 
 
@@ -20,7 +20,11 @@ I was previously a research staff at the [University of Chicago Crime Lab and Ur
 ## Work in progress 
 
 "Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia"  
+<<<<<<< HEAD
 **Presentations (2021)**: Africa Meeting of the Econometric Society (scheduled), 10th European Meeting of the Urban Economics Association (scheduled), Midwest International Economic Development Conference (scheduled)  
+=======
+**Presented at (2021)**: 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference
+>>>>>>> 17e97b8046634d285f818840e0544c0429c670ec
 <details>
 <summary>Abstract</summary> 
   <p style="text-align:justify">
@@ -30,16 +34,28 @@ I explore how agricultural input subsidies change migration decisions of credit-
     </p>
   </details> 
 
-  
----  
-"Migration Decisions: Frictions vs. Preferences"   
-**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
       
  **** 
 "The Productivity and Allocation of Labor across Ghana's Health Facilities"  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 
+<<<<<<< HEAD
+=======
+ **** 
+"An experimental task to elicit preferences over fairness rules governing AI algorithms"  
+Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
+
+***  
+"Migration Decisions: Frictions vs. Preferences"   
+**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
+
+## Code   
+"[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
+"[Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)" (2020) - Unix    
+"[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (2020) - R and Stata   
+
+>>>>>>> 17e97b8046634d285f818840e0544c0429c670ec
 
 ## Publication
 "[The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study](https://gh.bmj.com/content/5/5/e002699)" (2020)  
