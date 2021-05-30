@@ -12,8 +12,7 @@ redirect_from:
 
 I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
-I am a teaching assistant for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516).  
-I co-organized a conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
+I am a teaching assistant for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516). I co-organized a conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
 I was previously a research staff at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). <!-- I hold a Master's Degree from the Paris School of Economics, and a _Licence_ from Université Paris Nanterre.-->   
 
@@ -32,10 +31,6 @@ I explore how an input subsidy aimed at improving productivity can change migrat
     </p>
   </details> 
 
-  
----  
-"Migration Decisions: Frictions vs. Preferences"   
-**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
       
  **** 
 "The Productivity and Allocation of Labor across Ghana's Health Facilities"  
@@ -46,6 +41,9 @@ Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), 
 "An experimental task to elicit preferences over fairness rules governing AI algorithms"  
 Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
+***  
+"Migration Decisions: Frictions vs. Preferences"   
+**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
 
 ## Code   
 "[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
