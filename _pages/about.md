@@ -19,7 +19,7 @@ I was previously a research staff at the [University of Chicago Crime Lab and Ur
 
 ## Work in progress 
 
-"Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia"  
+"_Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia_"  
 **Presented at (2021)**: 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
 <summary>Abstract</summary> 
@@ -32,16 +32,16 @@ I explore how agricultural input subsidies change migration decisions of credit-
 
       
  **** 
-"The Productivity and Allocation of Labor across Ghana's Health Facilities"  
+"_The Productivity and Allocation of Labor across Ghana's Health Facilities_"  
 Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 
  **** 
-"An experimental task to elicit preferences over fairness rules governing AI algorithms"  
+"_An experimental task to elicit preferences over fairness rules governing AI algorithms_"  
 Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
 ***  
-"Migration Decisions: Frictions vs. Preferences"   
+"_Migration Decisions: Frictions vs. Preferences_"   
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
 
 ## Code   
@@ -51,7 +51,7 @@ Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 
 ## Publication
-"[The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study](https://gh.bmj.com/content/5/5/e002699)" (2020)  
+"[_The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study_](https://gh.bmj.com/content/5/5/e002699)" (2020)  
 Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
@@ -76,7 +76,7 @@ _BMJ Global Health 2020;5:e002699_
 
 
 ## Policy Reports (Pre-PhD) 
-"[Using Behavioral Science to Improve Criminal Justice Outcome](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
+"[_Using Behavioral Science to Improve Criminal Justice Outcome_](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
 Joint with Brice Cooke, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
