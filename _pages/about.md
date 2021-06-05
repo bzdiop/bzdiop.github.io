@@ -33,7 +33,7 @@ I explore how agricultural input subsidies change migration decisions of credit-
       
  **** 
 "_The Productivity and Allocation of Labor across Ghana's Health Facilities_"  
-Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Koku Awoonor-Williams](https://www.africahealthpot.org/profilesingle.php?id=2), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
+Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 
  **** 
