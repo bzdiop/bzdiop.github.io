@@ -12,9 +12,9 @@ redirect_from:
 
 I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
-I am a teaching assistant for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516). I co-organized a conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
+I am the T.A for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516). I co-organized a conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
-I previously worked as a research staff at the [University of Chicago Crime Lab and Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). 
+I previously worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). 
 
 
 ## Work in progress 
@@ -43,12 +43,6 @@ Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 ***  
 "_Migration Decisions: Frictions vs. Preferences_"   
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
-
-## Code   
-"[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
-"[Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)" (2020) - Unix    
-"[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (2020) - R and Stata   
-
 
 ## Publication
 "[_The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study_](https://gh.bmj.com/content/5/5/e002699)" (2020)  
