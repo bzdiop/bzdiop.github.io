@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
-I am the T.A for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516). I co-organized a conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by Professor [Maximilian Kasy](https://maxkasy.github.io/home/). 
+I am the T.A for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516) and co-organized the 2021 conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
 I previously worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). 
 
@@ -74,7 +74,7 @@ _BMJ Global Health 2020;5:e002699_
 Joint with Brice Cooke, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
-Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
+* Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
 
 
 
