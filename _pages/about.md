@@ -42,7 +42,7 @@ Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 ***  
 "_Migration Decisions: Frictions vs. Preferences_"   
-**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020), CSWEP PhD Mentoring Workshop (2020)   
+**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   
 
 ## Publication
 "[_The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study_](https://gh.bmj.com/content/5/5/e002699)" (2020)  
@@ -64,9 +64,9 @@ _BMJ Global Health 2020;5:e002699_
 
 
 ## Code Published   
-"[Simulations-based power calculations](https://www.csae.ox.ac.uk/materials/coderscorner/949/coderscornerttweek5fm.pdf)" (2019) - Stata   
-"[Compiling .tex files to .docx](https://www.csae.ox.ac.uk/materials/coderscorner/1010/coderscornermt19week4fm1.pdf)" (2020) - Unix    
-"[Autogenerate your folder structure](https://www.csae.ox.ac.uk/materials/coderscorner/1129/coderscornermt20week3sp-v2.pdf)" (2020) - R and Stata   
+"[Simulations-based power calculations](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)" (2019) - Stata   
+"[Compiling .tex files to .docx](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf)" (2020) - Unix    
+"[Autogenerate your folder structure](https://csae.web.ox.ac.uk/sites/default/files/csae/documents/media/coderscorner_mt20week3_sp_v2.pdf)" (2020) - R and Stata   
 
 
 ## Policy Reports (Pre-PhD) 
