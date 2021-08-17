@@ -20,7 +20,7 @@ I previously worked as a research staff at the [University of Chicago Urban Labs
 ## Work in progress 
 
 "_Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia_"  
-**Presented at (2021)**: 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
+**Presented at (2021)**:  PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
 <summary>Abstract</summary> 
   <p style="text-align:justify">
