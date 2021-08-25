@@ -36,10 +36,10 @@ Licence (Undergraduate degree), Economics –– 2011
  **Senegal’s Strategy for Accelerated Growth** - Dakar, Senegal  
  Summer Intern –– 2011  
  
- **Feed the Future Senegal (Projet de Croissance Economique /USAID)** - Dakar, Senegal  
+ **Feed the Future Senegal (Projet de Croissance Economique / USAID)** - Dakar, Senegal  
  Summer Intern –– 2010  
  
- **Stade Francais, Olympique Courbevoie** - Paris, France  
+ **Stade Français, Olympique Courbevoie** - Paris, France  
 Stipendiary Swimmer –– 2008 – 2010  
 
 
