@@ -16,10 +16,10 @@ Licence (Undergraduate degree), Economics –– 2011
 
 ## Teaching Experience  
  
-### University of Oxford**  
- **Quantitative Methods**, MSc. in Economics for Development Fall 2020, Winter 2021, Fall 2021  
- **Intro. to Statistical Coding**, MSc. in Economics for Development Winter 2020, Spring 2020  
- **Development Economics**, Exeter Summer School (undergraduate) Summer 2019
+### University of Oxford 
+ * Quantitative Methods, MSc. in Economics for Development Fall 2020, Winter 2021, Fall 2021  
+ * Intro. to Statistical Coding, MSc. in Economics for Development Winter 2020, Spring 2020  
+ * Development Economics, Exeter Summer School (undergraduate) Summer 2019
  
 ## Professional Experience  
  
@@ -28,7 +28,7 @@ Licence (Undergraduate degree), Economics –– 2011
  Graduate Research Assistant –– 2018 – 2020 
  
  **University of Chicago Crime Lab and Urban Labs** - Chicago, USA  
- Senior Research Analyst –– 2014 - 2018  
+ Senior Research Analyst –– 2014 – 2018  
  
  **Georgetown University – gui2de** - Washington, USA  
  Graduate Research Assistant –– 2013  
