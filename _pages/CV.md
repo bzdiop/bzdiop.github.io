@@ -17,7 +17,7 @@ Master’s in Research, Quantitative Economics --  2012 – 2014
 M1 (Master’s in Research), Applied Economics --  2011 – 2012  
 Licence (Undergraduate degree), Economics 2008 –- 2011  
 
- ## Teaching Experience
+ ## Teaching
  
  **University of OxfordOxford**, UK  
  **Quantitative Methods**, MSc. in Economics for Development Fall 2020, Winter 2021, Fall 2021  
@@ -34,7 +34,7 @@ Licence (Undergraduate degree), Economics 2008 –- 2011
  Senior Research Analyst 2014-2018  
  
  **Georgetown University – gui2de** - Washington, USA  
- Graduate Research Assistant to Pr.JamesHabyarimana - 2013  
+ Graduate Research Assistant - 2013  
  
  **Senegal’s Strategy for Accelerated Growth** - Dakar, Senegal  
  Summer Intern 2011  
