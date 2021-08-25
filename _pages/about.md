@@ -14,7 +14,7 @@ I am a PhD candidate at the [Department of Economics of the University of Oxford
 
 I am the T.A for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516) and co-organized the 2021 conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
-I previously worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#), [see more here](https://bzdiop.github.io/cv/)
+I previously worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#), see more [here](https://bzdiop.github.io/cv/)
 
 
 ## Work in progress 
