@@ -6,7 +6,7 @@ title: "CV"
 
 _Full CV available upon request_
 
-## Education
+##Education
 **University of Oxford**  
 Doctor of Philosophy, Economics -- 2018 –  
 
@@ -17,13 +17,13 @@ Master’s in Research, Quantitative Economics --  2012 – 2014
 M1 (Master’s in Research), Applied Economics --  2011 – 2012  
 Licence (Undergraduate degree), Economics 2008 –- 2011  
 
- ## Teaching Experience  
+ ##Teaching Experience  
  **University of OxfordOxford**, UK
  **Quantitative Methods**, MSc. in Economics for Development Fall 2020, Winter 2021, Fall 2021  
  **Introduction to Statistical Coding**, MSc. in Economics for Development Winter 2020, Spring 2020
  **Development Economics**, Exeter Summer School (undergraduate) Summer 2019
  
- ## Professional Experience  
+ ##Professional Experience  
  **University of Oxford** - Oxford, UK  
  Co-host of the machine learning and inequality conference with Dr. Maximilian Kasy 2020 – 2021  
  Graduate Research Assistant 2018 – 2020 
@@ -44,7 +44,7 @@ Licence (Undergraduate degree), Economics 2008 –- 2011
 Stipendiary Swimmer 2008 – 2010  
 
 
-## References
+##References
 
 
 |**Douglas GOLLIN**| **Martin J. WILLIAMS** |**Isabel RUIZ**|**Aurélie OUSS**|
