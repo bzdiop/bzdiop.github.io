@@ -2,6 +2,9 @@
 permalink: /
 title: ""
 excerpt: "CV"
+redirect_from: 
+  - /cv/
+  - /cv.html
 ---
 
 # CV
