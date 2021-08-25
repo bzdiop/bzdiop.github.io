@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /cv/
 title: ""
 excerpt: "CV"
 redirect_from: 
