@@ -21,7 +21,7 @@ Licence (Undergraduate degree), Economics 2008 –- 2011
  
  **University of OxfordOxford**, UK  
  **Quantitative Methods**, MSc. in Economics for Development Fall 2020, Winter 2021, Fall 2021  
- **Introduction to Statistical Coding**, MSc. in Economics for Development Winter 2020, Spring 2020  
+ **Intro. to Statistical Coding**, MSc. in Economics for Development Winter 2020, Spring 2020  
  **Development Economics**, Exeter Summer School (undergraduate) Summer 2019
  
 ## Professional Experience  
