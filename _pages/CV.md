@@ -3,9 +3,6 @@ permalink: /cv/
 title: ""
 ---
 
-
-_Full CV available upon request, bintazahra.diop[at]economics.ox.ac.uk_
-
 ## Education
 **University of Oxford**  
 Doctor of Philosophy, Economics -- 2018 –  
@@ -69,3 +66,5 @@ Assistant Professor
 UPenn  
 aouss[at]sas.upenn.edu  
 
+
+_Full CV available upon request, bintazahra.diop[at]economics.ox.ac.uk_
