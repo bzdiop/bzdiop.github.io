@@ -8,14 +8,14 @@ _Full CV available upon request_
 
 ## Education
 **University of Oxford**  
-Doctor of Philosophy, Economics 2018 –  
+Doctor of Philosophy, Economics -- 2018 –  
 
 **Paris School of Economics**  
 Master’s in Research, Quantitative Economics --  2012 – 2014  
 
 **University Paris-X, Nanterre**  
 M1 (Master’s in Research), Applied Economics --  2011 – 2012  
-Licence (Undergraduate degree), Economics 2008 – 2011  
+Licence (Undergraduate degree), Economics 2008 –- 2011  
 
  ## Teaching Experience
  ### University of OxfordOxford, UK
@@ -40,7 +40,7 @@ Licence (Undergraduate degree), Economics 2008 – 2011
  **Feed the Future Senegal (Projet de Croissance Economique /USAID)** - Dakar, Senegal  
  Summer Intern 2010  
  
- **Stade Francais, Olympique Courbevoie** (ranked 2ndclub in France in 2009) Paris, France  
+ **Stade Francais, Olympique Courbevoie** - Paris, France  
 Stipendiary Swimmer 2008 – 2010  
 
 
