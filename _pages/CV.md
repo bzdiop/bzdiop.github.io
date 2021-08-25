@@ -17,9 +17,9 @@ Licence (Undergraduate degree), Economics –– 2011
 ## Teaching Experience  
  
 ### University of Oxford 
- - Quantitative Methods, MSc. in Economics for Development Fall 2020, Winter 2021, Fall 2021  
- - Intro. to Statistical Coding, MSc. in Economics for Development Winter 2020, Spring 2020  
- - Development Economics, Exeter Summer School (undergraduate) Summer 2019
+ - Quantitative Methods, Graduate, Fall 2020, Winter 2021, Fall 2021  
+ - Intro. to Statistical Coding, Graduate, Winter 2020, Spring 2020  
+ - Development Economics, Summer School (undergraduate), Summer 2019
  
 ## Professional Experience  
  
