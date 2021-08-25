@@ -1,10 +1,6 @@
 ---
 permalink: /cv/
-title: ""
-excerpt: "CV"
-redirect_from: 
-  - /cv/
-  - /cv.html
+title: "CV"
 ---
 
 # CV
