@@ -4,7 +4,7 @@ title: "CV"
 ---
 
 
-_Full CV available upon request_
+_Full CV available upon request, bintazahra.diop[at]economics.ox.ac.uk_
 
 ## Education
 **University of Oxford**  
