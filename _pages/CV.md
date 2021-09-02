@@ -8,11 +8,11 @@ title: ""
 Doctor of Philosophy, Economics –– 2018 –  
 
 **Paris School of Economics**  
-Master’s in Research, Quantitative Economics –– 2014  
+Master’s in Research, Quantitative Economics
 
 **University Paris-X, Nanterre**  
-M1 (Master’s in Research), Applied Economics –– 2012  
-Licence (Undergraduate degree), Economics –– 2011  
+M1 (Master’s in Research), Applied Economics 
+Licence (Undergraduate degree), Economics
 
 ## Teaching Experience  
  
@@ -55,22 +55,17 @@ Associate Professor
 University of Oxford  
 martin.williams[at]bsg.ox.ac.uk  
 
-[Isabel Ruiz](https://www.econforced.com/isabel-ruiz)  
-Fellow / Adjunct Faculty  
+[Hamish Low](https://sites.google.com/site/hamishlowecon/)  
+Professor  
 University of Oxford  
-isabel.ruiz[at]bsg.ox.ac.uk  
+hamish.low[at]economics.ox.ac.uk  
 
-### Teaching 
 [Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/)  
 Professor   
 University of Oxford  
 christopher.woodruff[at]qeh.ox.ac.uk  
 
-### Pre-Doc
-[Aurélie Ouss](https://aouss.github.io/)  
-Assistant Professor  
-UPenn  
-aouss[at]sas.upenn.edu  
+
 
 
 _Full CV available upon request, bintazahra.diop[at]economics.ox.ac.uk_
