@@ -79,4 +79,25 @@ Later published in _Science_ under the title “[Behavioral nudges reduce failur
 
 
 
+## References
+
+[Douglas Gollin](https://sites.google.com/site/douglasgollin/)  
+Professor  
+University of Oxford  
+douglas.gollin[at]qeh.ox.ac.uk  
+
+[Hamish Low](https://sites.google.com/site/hamishlowecon/)  
+Professor  
+University of Oxford  
+hamish.low[at]economics.ox.ac.uk  
+
+[Martin J. Williams](https://martinjwilliams.com/)  
+Associate Professor   
+University of Oxford  
+martin.williams[at]bsg.ox.ac.uk  
+
+[Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/)  
+Professor   
+University of Oxford  
+christopher.woodruff[at]qeh.ox.ac.uk  
 
