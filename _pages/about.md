@@ -10,9 +10,9 @@ redirect_from:
 
 ## About me
 
-I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/#/). My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
+I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
-I am the T.A for the Quantitative Methods course of the [MSc. in Economics for Development](https://www.economics.ox.ac.uk/m.sc.-in-economics-for-development#collapse2101516) and co-organized the 2021 conference on [machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/), hosted by [Maximilian Kasy](https://maxkasy.github.io/home/). 
+I am the T.A for the Quantitative Methods course of Oxford's MSc. in Economics for Development and co-organized the 2021 conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
 I previously worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). You can find an excerpt of my [CV here](https://bzdiop.github.io/cv/).
 
@@ -20,6 +20,7 @@ I previously worked as a research staff at the [University of Chicago Urban Labs
 ## Work in progress 
 
 "_Agricultural Subsidies, Credit Constraints and Migration: Theory and Evidence from Zambia_"  
+Binta Zahra Diop  
 **Presented at (2021)**:  PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
 <summary>Abstract</summary> 
@@ -33,12 +34,12 @@ I explore how agricultural input subsidies change migration decisions of credit-
       
  **** 
 "_The Productivity and Allocation of Labor across Ghana's Health Facilities_"  
-Joint with [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
+Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 
  **** 
 "_An experimental task to elicit preferences over fairness rules governing AI algorithms_"  
-Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
+Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
 ***  
 "_Migration Decisions: Frictions vs. Preferences_"   
@@ -46,7 +47,7 @@ Joint with [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 ## Publication
 "[_The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study_](https://gh.bmj.com/content/5/5/e002699)" (2020)  
-Joint with [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
+Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=cpouguebiy), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
 **Presentation**: World Health Organization TC Modeling Series (June 2020) 
@@ -71,7 +72,7 @@ _BMJ Global Health 2020;5:e002699_
 
 ## Policy Reports (Pre-PhD) 
 "[_Using Behavioral Science to Improve Criminal Justice Outcome_](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
-Joint with Brice Cooke, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
