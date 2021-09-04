@@ -60,7 +60,7 @@ Associate Professor
 University of Oxford  
 martin.williams[at]bsg.ox.ac.uk  
 
-[Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/)  
+[Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/) (Teaching)  
 Professor   
 University of Oxford  
 christopher.woodruff[at]qeh.ox.ac.uk  
