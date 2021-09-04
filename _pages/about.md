@@ -36,10 +36,20 @@ I explore how agricultural input subsidies change migration decisions of credit-
 "_The Productivity and Allocation of Labor across Ghana's Health Facilities_"  
 Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
+<details>
+<summary>Research Plan</summary>
+    <p style="text-align:justify">
+    <font size="-0.5">
+In order to deliver public services, governments must allocate scarce human and financial resources across their territories, yet there is little systematic evidence on the productivity of these inputs or allocative efficiency with which governments allocate them. We study this by leveraging a unique panel dataset of service delivery, health outcomes, and human and financial inputs in the universe of over 5,000 public health facilities in Ghana. Our research design allows us to estimate the marginal returns to health personnel on health service delivery quantity and quality, while controlling for unobserved heterogeneity across facilities. We benchmark these estimates to various methods of valuing health service delivery, to assess whether (and which kinds of) government expenditure on worker salaries are cost effective ways to improve service delivery. We also use these estimates to simulate the potential gains from several potential policies for improving health worker allocation.
+  </font>
+  </p>
+</details>
+
 
  **** 
 "_An experimental task to elicit preferences over fairness rules governing AI algorithms_"  
 Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
+
 
 ***  
 "_Migration Decisions: Frictions vs. Preferences_"   
@@ -76,7 +86,14 @@ Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
-
+<details>
+<summary>Abstract</summary>
+    <p style="text-align:justify">
+    <font size="-0.5">
+Criminal justice policy in the United States focuses on increasing negative consequences to deter undesired behavior. However, defendants often appear relatively insensitive to these changes in the severity of consequences. Fishbane et al. considered a different policy lever: improving the communication of information necessary to adhere to desired behavior (see the Perspective by Kohler-Hausmann). They found that redesigning a criminal summons form to highlight critical information and providing text message reminders increased the likelihood that defendants would show up to their appointed court date, thus eliminating a substantial percentage of arrest warrants for failing to appear in court. In follow-up experiments, the authors found that laypeople, but not experts, believe that such failures to appear are relatively intentional, and this belief reduces their support for interventions aimed at increasing awareness rather than punishment. These findings have implications for policies aimed at improving criminal justice outcomes.
+  </font>
+  </p>
+</details>
 
 
 ## References
@@ -96,7 +113,7 @@ Associate Professor
 University of Oxford  
 martin.williams[at]bsg.ox.ac.uk  
 
-[Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/)  
+[Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/) (Teaching)  
 Professor   
 University of Oxford  
 christopher.woodruff[at]qeh.ox.ac.uk  
