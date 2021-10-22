@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
+I am a PhD candidate at the Department of Economics of the University of Oxford. I am currently on the market for Postdoctoral positions. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
 I am the T.A for the Quantitative Methods course of Oxford's MSc. in Economics for Development and co-organized the 2021 conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
