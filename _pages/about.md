@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am a PhD candidate at the Department of Economics of the University of Oxford. I am currently on the market for Postdoctoral positions. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
+I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
 I am the T.A for the Quantitative Methods course of Oxford's MSc. in Economics for Development and co-organized the 2021 conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
@@ -26,7 +26,7 @@ Binta Zahra Diop
 <summary>Abstract</summary> 
   <p style="text-align:justify">
   <font size="-0.5">
-I explore how agricultural input subsidies change migration decisions of credit-constrained farmers.  Farming households make a joint-decision between using the subsidy as an input and using resale markets to generate income and migrate. They allocate labor units on the basis of their comparative advantage in agricultural technologies and in migration. Whether farmers migrate with their household or alone depends on how binding their credit constraint is. The implications of the model hold in a panel of Zambian smallholders in 2001-2008 with a large number of households responding to the subsidy by sending members to migrate, or by migrating altogether implying an income effect. This paper adds to our understanding of how subsidies intending to increase agricultural productivity can change a broader set of decisions, including migration decisions and speak to different margins of its migration decision. 
+This paper explores the complex impacts of agricultural input subsidies in an environment where farmers face binding credit constraints and where they may also lack knowledge about the efficient use of fertilizers. In this context, fertilizer subsidies not only affect  farming practices but also shape household decisions in relation to rural-urban migration. In this paper, I construct a theoretical framework that shows the links between subsidies and migration. Using simulated data, I then show how input subsidies lead households to allocate labor into agriculture (traditional or fertilizer-intensive) or into migration on the basis of their comparative advantage. The subsidy addresses two challenges. First, network externalities lead farmers to use improved inputs only if their neighbors do. By lowering the costs of adopting  inputs for all, the subsidy internalizes this externality. Second, farmers with a comparative advantage in migration face credit constraints, making the upfront cost of migration unaffordable. This constraint, combined with non-convexities in the agriculture technology, “traps” them in agriculture. Input subsidies can allow farmers to overcome the trap and reap the gains of comparative advantage. I substantiate the predictions of the theoretical framework  using a panel of Zambian smallholders, many of whom benefited from the Zambian Fertilizer Support Program (FSP). I find that input subsidies have a quantitatively large effect on rural-urban migration. 
     </font>
     </p>
   </details> 
