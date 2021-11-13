@@ -34,7 +34,7 @@ This paper explores the complex impacts of agricultural input subsidies in an en
       
  **** 
 "_The Productivity and Allocation of Labor across Ghana's Health Facilities_"  
-Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
+__Binta Zahra Diop__, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 <details>
 <summary>Research Plan</summary>
@@ -48,7 +48,7 @@ In order to deliver public services, governments must allocate scarce human and 
 
  **** 
 "_An experimental task to elicit preferences over fairness rules governing AI algorithms_"  
-Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
+__Binta Zahra Diop__, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
 
 ***  
@@ -82,7 +82,7 @@ _BMJ Global Health 2020;5:e002699_
 
 ## Policy Reports (Pre-PhD) 
 "[_Using Behavioral Science to Improve Criminal Justice Outcome_](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
-Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+Brice Cooke, __Binta Zahra Diop__, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
