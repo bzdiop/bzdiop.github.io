@@ -11,7 +11,7 @@ Doctor of Philosophy, Economics –– 2018 –
 Master’s in Research, Quantitative Economics
 
 **University Paris-X, Nanterre**  
-M1 (Master’s in Research), Applied Economics 
+M1 (Master’s in Research), Applied Economics  
 Licence (Undergraduate degree), Economics
 
 ## Teaching Experience  
