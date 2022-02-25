@@ -19,7 +19,7 @@ I previously worked as a research staff at the [University of Chicago Urban Labs
 
 ## Work in progress 
 
-"_Input Subsidies, Credit Constraints and Migration_"  
+"_Input Subsidies, Credit Constraints, and Migration_"  
 Binta Zahra Diop  
 **Presented at (2021)**:  PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
