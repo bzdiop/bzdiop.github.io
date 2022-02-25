@@ -19,7 +19,7 @@ I previously worked as a research staff at the [University of Chicago Urban Labs
 
 ## Work in progress 
 
-"_The (Unintended) Effects of Agricultural Subsidies on Migration: Theory and Evidence from Zambia_"  
+"_Input Subsidies, Credit Constraints and Migration_"  
 Binta Zahra Diop  
 **Presented at (2021)**:  PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
@@ -33,7 +33,7 @@ This paper explores the complex impacts of agricultural input subsidies in an en
 
       
  **** 
-"_The Productivity and Allocation of Labor across Ghana's Health Facilities_"  
+"_The Productivity and Allocation of Labor across Ghana’s Health Facilities_"  
 __Binta Zahra Diop__, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
 <details>
@@ -47,7 +47,7 @@ In order to deliver public services, governments must allocate scarce human and 
 
 
  **** 
-"_An experimental task to elicit preferences over fairness rules governing AI algorithms_"  
+"_An experimental task to elicit preferences over definitions of algorithmic fairness_"  
 __Binta Zahra Diop__, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
 
