@@ -95,7 +95,7 @@ Each year, millions of Americans fail to appear in court for low-level offenses,
   </p>
 </details>  
 
-
+<!-- 
 ## References
 
 [Douglas Gollin](https://sites.google.com/site/douglasgollin/)  
@@ -116,5 +116,5 @@ martin.williams[at]bsg.ox.ac.uk
 [Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/) (Teaching)  
 Professor   
 University of Oxford  
-christopher.woodruff[at]qeh.ox.ac.uk  
+christopher.woodruff[at]qeh.ox.ac.uk   -->
 
