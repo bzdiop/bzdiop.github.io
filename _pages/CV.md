@@ -28,21 +28,21 @@ Development Economics, Undergraduate, Summer 2019
  Graduate Research Assistant –– 2018 – 2020 
  
  **University of Chicago Crime Lab and Urban Labs** - Chicago, USA  
- Senior Research Analyst –– 2014 – 2018  
+ Senior Research Analyst  
  
  **Georgetown University – gui2de** - Washington, USA  
- Graduate Research Assistant –– 2013  
+ Graduate Research Assistant  
  
  **Senegal’s Strategy for Accelerated Growth** - Dakar, Senegal  
- Summer Intern –– 2011  
+ Summer Intern  
  
  **Feed the Future Senegal (Projet de Croissance Economique / USAID)** - Dakar, Senegal  
- Summer Intern –– 2010  
+ Summer Intern  
  
  **Stade Français, Olympique Courbevoie** - Paris, France  
-Stipendiary Swimmer –– 2008 – 2010  
+Stipendiary Swimmer  
 
-
+<!-- 
 ## References
 
 [Douglas Gollin](https://sites.google.com/site/douglasgollin/)  
@@ -63,7 +63,7 @@ martin.williams[at]bsg.ox.ac.uk
 [Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/) (Teaching)  
 Professor   
 University of Oxford  
-christopher.woodruff[at]qeh.ox.ac.uk  
+christopher.woodruff[at]qeh.ox.ac.uk   -->
 
 
 
