@@ -8,7 +8,7 @@ title: ""
 Doctor of Philosophy, Economics –– 2018 –  
 
 **Paris School of Economics**  
-Master’s in Research, Quantitative Economics
+Master’s in Research, PPD - Quantitative Economics
 
 **University Paris-X, Nanterre**  
 M1 (Master’s in Research), Applied Economics  
