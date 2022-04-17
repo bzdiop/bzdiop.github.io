@@ -25,9 +25,7 @@ Binta Zahra Diop
 <details>
 <summary>Abstract</summary> 
   <p style="text-align:justify">
-  <font size="-0.5">
 I explore the impacts of agricultural input subsidies programs (ISPs) on internal migration. I construct a theoretical framework where ISPs address two common challenges. First, a learning externality leads farmers to use improved inputs only if some neighbors do so. By lowering the costs of adopting inputs, the ISP internalizes this externality. Second, farmers face a binding credit constraint, making the upfront cost of both fertilizer adoption and migration unaffordable. In the presence of resale markets, the subsidized bundle of fertilizer can be traded to either generate liquidity and migrate or purchase more fertilizer and double-down in agriculture. In this setting, resale markets improve the allocative efficiency of the ISP by turning it into a small cash-transfer to net re-sellers and a large in-kind transfer to net buyers. I substantiate the model's predictions using a panel of Zambian smallholders, many of whom benefited from an ISP. I find that the share of households relocating increases by 15pp compared to areas with no subsidy. For the remaining households, an additional 26pp send at least one member out to migrate.  
-      </font>
     </p>
   </details>  
 
