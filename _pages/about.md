@@ -61,6 +61,7 @@ __Binta Zahra Diop__, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), 
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
 **Presentation**: World Health Organization TC Modeling Series (June 2020) 
+<img src="images/covidscreenshot.png" width="50%" height="50%">  
 <details>
 <summary>Abstract</summary>
     <p style="text-align:justify">
