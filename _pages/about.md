@@ -60,8 +60,7 @@ __Binta Zahra Diop__, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 __Binta Zahra Diop__, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
-**Presentation**: World Health Organization TC Modeling Series (June 2020) 
-<img src="images/covidscreenshot.png" width="50%" height="50%">  
+**Presentation**: World Health Organization TC Modeling Series (June 2020)  
 <details>
 <summary>Abstract</summary>
     <p style="text-align:justify">
@@ -73,7 +72,7 @@ _BMJ Global Health 2020;5:e002699_
   </font>
   </p>
 </details>
-
+<img src="/images/covidscreenshot.png" width="75%" height="75%">  
 
 ## Code Published   
 "[Simulations-based power calculations](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)" (2019) - Stata   
