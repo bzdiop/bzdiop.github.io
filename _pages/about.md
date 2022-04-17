@@ -94,6 +94,7 @@ Each year, millions of Americans fail to appear in court for low-level offenses,
   </font>
   </p>
 </details>  
+<img src="/images/fta.png" width="35%" height="35%">  
 
 <!-- 
 ## References
