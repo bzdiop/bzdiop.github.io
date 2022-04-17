@@ -14,7 +14,7 @@ I am a PhD candidate at the Department of Economics of the University of Oxford.
 
 I am the T.A for the Quantitative Methods course of Oxford's MSc. in Economics for Development and co-organized the 2021 conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/). 
 
-I previously worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). You can find an excerpt of my [CV here](https://bzdiop.github.io/cv/).
+Previously, I worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). You can find an excerpt of my [CV here](https://bzdiop.github.io/cv/).
 
 
 ## Work in progress 
@@ -45,7 +45,7 @@ In order to deliver public services, governments must allocate scarce human and 
   </p>
 </details>
 
-
+  
  **** 
 "_An experimental task to elicit preferences over definitions of algorithmic fairness_"  
 __Binta Zahra Diop__, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
@@ -74,7 +74,7 @@ _BMJ Global Health 2020;5:e002699_
   </p>
 </details>
 
-
+  
 ## Code Published   
 "[Simulations-based power calculations](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)" (2019) - Stata   
 "[Compiling .tex files to .docx](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf)" (2020) - Unix    
