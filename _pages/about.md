@@ -68,11 +68,12 @@ _BMJ Global Health 2020;5:e002699_
 <b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
 <b>Methods</b> We use an augmented deterministic Susceptible-Infected-Recovered model to predict the true spread of the disease, under the containment measures taken so far. We disaggregate the infected compartment into asymptomatic, mildly symptomatic and severely symptomatic to match observed clinical development of COVID-19. We also account for age structures, urbanisation and comorbidities (HIV, tuberculosis, anaemia).  <br>
 <b>Results</b> In our baseline model, we project that the peak of active cases will occur in July, subject to the effectiveness of policy measures. When accounting for the urbanisation, and factoring in comorbidities, the peak may occur between 2 June and 17 June (Ghana), 22 July and 29 August (Kenya) and, finally, 28 May and 15 June (Senegal). Successful containment policies could lead to lower rates of severe infections. While most cases will be mild, we project in the absence of policies further containing the spread, that between 0.78% and 1.03%, 0.61% and 1.22%, and 0.60% and 0.84% of individuals in Ghana, Kenya and Senegal, respectively, may develop severe symptoms at the time of the peak of the epidemic.  <br>
-<b>Conclusion</b> Compared with Europe, Africa’s younger and rural population may modify the severity of the epidemic. The large youth population may lead to more infections but most of these infections will be asymptomatic or mild, and will probably go undetected. The higher prevalence of underlying conditions must be considered. 
+<b>Conclusion</b> Compared with Europe, Africa’s younger and rural population may modify the severity of the epidemic. The large youth population may lead to more infections but most of these infections will be asymptomatic or mild, and will probably go undetected. The higher prevalence of underlying conditions must be considered.  
+      <img src="/images/covidscreenshot.png" width="60%" height="60%">  
   </font>
   </p>
 </details>
-<img src="/images/covidscreenshot.png" width="60%" height="60%">  
+
 
 ## Code Published   
 "[Simulations-based power calculations](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)" (2019) - Stata   
@@ -90,11 +91,12 @@ Later published in _Science_ under the title “[Behavioral nudges reduce failur
 <summary>Abstract</summary>
     <p style="text-align:justify">
     <font size="-1">
-Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.
+Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.  
+      <img src="/images/fta.png" width="35%" height="35%">  
   </font>
   </p>
 </details>  
-<img src="/images/fta.png" width="35%" height="35%">  
+
 
 <!-- 
 ## References
