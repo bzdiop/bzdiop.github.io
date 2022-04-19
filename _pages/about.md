@@ -78,7 +78,7 @@ _BMJ Global Health 2020;5:e002699_
   </font>
   </p>
 </details>
-  
+  <br />
     
 ## Code Published   
 "[Simulations-based power calculations](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)" (2019) - Stata   
