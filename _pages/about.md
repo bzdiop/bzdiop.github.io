@@ -26,7 +26,7 @@ Binta Zahra Diop
 **Presented at** --  **2022**: Royal Economic Society Easter Training School | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
 <summary>
-  <h6>Abstract</h6>
+  Abstract
  </summary>
     <p style="text-align:justify">
     <font size="-1">
