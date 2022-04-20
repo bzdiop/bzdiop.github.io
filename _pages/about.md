@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 ## About me
 
 I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
@@ -23,7 +25,8 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 Binta Zahra Diop  
 **Presented at** --  **2022**: Royal Economic Society Easter Training School | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
-<summary>Abstract</summary> 
+<button style="background-color: blue;" type="button">
+Abstract</button>
   <p style="text-align:justify">
     <font size="-1">
 I explore the impacts of agricultural input subsidies programs (ISPs) on internal migration. I construct a theoretical framework where ISPs address two common challenges. First, a learning externality leads farmers to use improved inputs only if some neighbors do so. By lowering the costs of adopting inputs, the ISP internalizes this externality. Second, farmers face a binding credit constraint, making the upfront cost of both fertilizer adoption and migration unaffordable. In the presence of resale markets, the subsidized bundle of fertilizer can be traded to either generate liquidity and migrate or purchase more fertilizer and double-down in agriculture. In this setting, resale markets improve the allocative efficiency of the ISP by turning it into a small cash-transfer to net re-sellers and a large in-kind transfer to net buyers. I substantiate the model's predictions using a panel of Zambian smallholders, many of whom benefited from an ISP. I find that the share of households relocating increases by 15pp compared to areas with no subsidy. For the remaining households, an additional 26pp send at least one member out to migrate.  
@@ -62,7 +65,7 @@ _BMJ Global Health 2020;5:e002699_
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
 **Presentation**: World Health Organization TC Modeling Series (June 2020)  
 <details>
-<summary>Abstract</summary>
+<summary>Abstract and Graphs</summary>
     <p style="text-align:justify">
     <font size="-1">
 <b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
@@ -93,7 +96,7 @@ _University of Chicago Crime Lab & ideas42_
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
 <details>
-<summary>Abstract</summary>
+<summary>Abstract and Summary Graphs</summary>
     <p style="text-align:justify">
     <font size="-1">
 Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br />
