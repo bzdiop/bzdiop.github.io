@@ -21,7 +21,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 ## Work in progress 
 
-"_Input Subsidies, Credit Constraints, and Internal Migration_"  
+"_Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions._"  
 Binta Zahra Diop  
 **Presented at** --  **2022**: Royal Economic Society Easter Training School | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
