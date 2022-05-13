@@ -23,7 +23,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 "_Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions._"  
 Binta Zahra Diop  
-**Presented at** --  **2022**: _NOVAFRICA Conference on Economic Development (Lisbon),  International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School (Bristol) | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
+**Presented at** --  **2022**: _NOVA Conference on Economic Development (Lisbon),  International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School (Bristol) | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
 <summary>
   Abstract
