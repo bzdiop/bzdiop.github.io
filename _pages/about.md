@@ -23,7 +23,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 "_Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions._"  
 Binta Zahra Diop  
-**Presented at** --  **2022**: Royal Economic Society Easter Training School | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
+**Presented at** --  **2022**: _NOVAFRICA Conference on Economic Development (Lisbon),  International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
 <summary>
   Abstract
@@ -40,7 +40,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
  **** 
 "_The Productivity and Allocation of Labor across Ghana’s Health Facilities_"  
 __Binta Zahra Diop__, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
-**Presentations**: WGAPE (2019), ODI Public Finance conference (2020)  
+**Presentations**: Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), WGAPE (2019), ODI Public Finance conference (2020)  
 <details>
 <summary>Research Plan</summary>
     <p style="text-align:justify">
