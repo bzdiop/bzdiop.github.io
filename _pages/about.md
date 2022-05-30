@@ -23,7 +23,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 ## Work in progress 
 
-"*_Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions_*"  
+"*Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions*"  
 Binta Zahra Diop  
 **Presented at** --  **2022**: _NOVA Conference on Economic Development (Lisbon),  International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School (Bristol) | **2021**: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 <details>
@@ -40,7 +40,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
   
   
  **** 
-"*_The Productivity and Allocation of Labor across Ghana’s Health Facilities_*"  
+"*The Productivity and Allocation of Labor across Ghana’s Health Facilities*"  
 __Binta Zahra Diop__, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), WGAPE (2019), ODI Public Finance conference (2020)  
 <details>
@@ -54,16 +54,16 @@ In order to deliver public services, governments must allocate scarce human and 
 
   
  **** 
-"*_An experimental task to elicit preferences over definitions of algorithmic fairness_*"  
+"*An experimental task to elicit preferences over definitions of algorithmic fairness*"  
 __Binta Zahra Diop__, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
 
 ***  
-"*_Migration Decisions: Frictions vs. Preferences_*"   
+"*Migration Decisions: Frictions vs. Preferences*"   
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   
 
 ## Publication
-"[*_The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study_*](https://gh.bmj.com/content/5/5/e002699)" (2020)  
+"[*The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study*](https://gh.bmj.com/content/5/5/e002699)" (2020)  
 __Binta Zahra Diop__, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
@@ -94,7 +94,7 @@ _BMJ Global Health 2020;5:e002699_
 
 
 ## Policy Reports (Pre-PhD) 
-"[*_Using Behavioral Science to Improve Criminal Justice Outcome_*](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
+"[*Using Behavioral Science to Improve Criminal Justice Outcome*](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
 Brice Cooke, __Binta Zahra Diop__, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
