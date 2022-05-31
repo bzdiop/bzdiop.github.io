@@ -41,7 +41,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
   
  **** 
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
-__Binta Zahra Diop__, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
+Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 **Presentations**: Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), WGAPE (2019), ODI Public Finance conference (2020)  
 <details>
 <summary>Research Plan</summary>
@@ -55,7 +55,7 @@ In order to deliver public services, governments must allocate scarce human and 
   
  **** 
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
-__Binta Zahra Diop__, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
+Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
 
 ***  
@@ -64,7 +64,7 @@ __Binta Zahra Diop__, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 ## Publication
 "[**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699)" (2020)  
-__Binta Zahra Diop__, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
+Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 **Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
 **Presentation**: World Health Organization TC Modeling Series (June 2020)  
@@ -95,7 +95,7 @@ _BMJ Global Health 2020;5:e002699_
 
 ## Policy Reports (Pre-PhD) 
 "[**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
-Brice Cooke, __Binta Zahra Diop__, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
