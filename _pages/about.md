@@ -41,9 +41,9 @@ function button(id) {
   cursor: pointer;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
-.button3 {background-color: #636363;} /* Gray */
+.button1 {background-color: #4CAF50;border-radius: 12px;} /* Green */
+.button2 {background-color: #008CBA;border-radius: 12px;} /* Blue */
+.button3 {background-color: #636363;border-radius: 12px;} /* Gray */
 </style>
 </head>
 
