@@ -32,11 +32,11 @@ function button(id) {
 .button {
   border: none;
   color: white;
-  padding: 5px 10px;
+  padding: 5px 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14px;
+  font-size: 12px;
   margin: 1px 1px;
   cursor: pointer;
 }
