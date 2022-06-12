@@ -104,7 +104,7 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   --> 
 
 ## Publication
-"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), _BMJ Global Health 2020;5:e002699_ [[Paper](https://gh.bmj.com/content/5/5/e002699)]  
+"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), _BMJ Global Health 2020;5:e002699_ [[paper](https://gh.bmj.com/content/5/5/e002699)]  
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
