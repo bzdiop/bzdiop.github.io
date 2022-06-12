@@ -141,7 +141,7 @@ Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs4&quot;)">Abstract and Graphs</button> 
-    <button class="button button3" onclick="button(&quot;pres4&quot;)">Abstract and Graphs</button> 
+    <button class="button button3" onclick="button(&quot;pres4&quot;)">Coverage</button> 
      </div> 
   <div class="popup" id="abs4" style="display:none;">
 Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br />
