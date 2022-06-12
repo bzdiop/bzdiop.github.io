@@ -61,7 +61,6 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 ## Work in progress 
 
 "**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"  
-Binta Zahra Diop
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs1&quot;)">Abstract</button> 
     <button class="button button3" onclick="button(&quot;pres1&quot;)">Presented at</button> 
