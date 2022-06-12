@@ -61,7 +61,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 ## Work in progress 
 
 "**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"  
-Binta Zahra Diop  
+Binta Zahra Diop
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs1&quot;)">Abstract</button> 
     <button class="button button3" onclick="button(&quot;pres1&quot;)">Presented at</button> 
@@ -82,7 +82,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
   
  **** 
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
-Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
+Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs2&quot;)">Research Plan</button> 
     <button class="button button3" onclick="button(&quot;pres2&quot;)">Presented at</button> 
@@ -105,9 +105,8 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   --> 
 
 ## Publication
-"[**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699)" (2020)  
-Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
-_BMJ Global Health 2020;5:e002699_  
+"[**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699)" (2020), _BMJ Global Health 2020;5:e002699_  
+Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
     <button class="button button3" onclick="button(&quot;pres3&quot;)">Cited in/Presented at</button> 
@@ -138,11 +137,9 @@ World Health Organization TC Modeling Series (June 2020)
 
 
 ## Policy Reports (Pre-PhD) 
-"[**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
+"[**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018), _University of Chicago Crime Lab & ideas42_     
 Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
-_University of Chicago Crime Lab & ideas42_    
-**Coverage**: 
-Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
+Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs4&quot;)">Abstract and Graphs</button> 
     <button class="button button3" onclick="button(&quot;pres4&quot;)">Abstract and Graphs</button> 
