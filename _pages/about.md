@@ -43,6 +43,7 @@ function button(id) {
 
 .button1 {background-color: #4CAF50;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #636363;} /* Gray */
 </style>
 </head>
 
@@ -62,8 +63,8 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 "**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"  
 Binta Zahra Diop  
 <div class="buttonbar">
-    <button class="button" onclick="button(&quot;abs1&quot;)">Abstract</button> 
-    <button class="button" onclick="button(&quot;pres1&quot;)">Presented at</button> 
+    <button class="button button3" onclick="button(&quot;abs1&quot;)">Abstract</button> 
+    <button class="button button3" onclick="button(&quot;pres1&quot;)">Presented at</button> 
      </div> 
   <div class="popup" id="abs1" style="display:none;">
 I explore the impacts of agricultural input subsidies programs (ISPs) on internal migration. I construct a theoretical framework where ISPs address two common challenges. First, a learning externality leads farmers to use improved inputs only if some neighbors do so. By lowering the costs of adopting inputs, the ISP internalizes this externality. Second, farmers face a binding credit constraint, making the upfront cost of both fertilizer adoption and migration unaffordable. In the presence of resale markets, the subsidized bundle of fertilizer can be traded to either generate liquidity and migrate or purchase more fertilizer and double-down in agriculture. In this setting, resale markets improve the allocative efficiency of the ISP by turning it into a small cash-transfer to net re-sellers and a large in-kind transfer to net buyers. I substantiate the model's predictions using a panel of Zambian smallholders, many of whom benefited from an ISP. I find that the share of households relocating increases by 15pp compared to areas with no subsidy. For the remaining households, an additional 26pp send at least one member out to migrate.
@@ -83,8 +84,8 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
 Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)  
 <div class="buttonbar">
-    <button class="button" onclick="button(&quot;abs2&quot;)">Research Plan</button> 
-    <button class="button" onclick="button(&quot;pres2&quot;)">Presented at</button> 
+    <button class="button button3" onclick="button(&quot;abs2&quot;)">Research Plan</button> 
+    <button class="button button3" onclick="button(&quot;pres2&quot;)">Presented at</button> 
      </div> 
   <div class="popup" id="abs2" style="display:none;">
 In order to deliver public services, governments must allocate scarce human and financial resources across their territories, yet there is little systematic evidence on the productivity of these inputs or allocative efficiency with which governments allocate them. We study this by leveraging a unique panel dataset of service delivery, health outcomes, and human and financial inputs in the universe of over 5,000 public health facilities in Ghana. Our research design allows us to estimate the marginal returns to health personnel on health service delivery quantity and quality, while controlling for unobserved heterogeneity across facilities. We benchmark these estimates to various methods of valuing health service delivery, to assess whether (and which kinds of) government expenditure on worker salaries are cost effective ways to improve service delivery. We also use these estimates to simulate the potential gains from several potential policies for improving health worker allocation.
@@ -108,8 +109,8 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
 <div class="buttonbar">
-    <button class="button" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
-    <button class="button" onclick="button(&quot;pres2&quot;)">Cited in/Presented at</button> 
+    <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
+    <button class="button button3" onclick="button(&quot;pres2&quot;)">Cited in/Presented at</button> 
      </div> 
   <div class="popup" id="abs3" style="display:none;">
 <b>Cited in:</b>  CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  <br>
@@ -143,7 +144,7 @@ _University of Chicago Crime Lab & ideas42_
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
 <div class="buttonbar">
-    <button class="button" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
+    <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
      </div> 
   <div class="popup" id="abs4" style="display:none;">
 Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br />
