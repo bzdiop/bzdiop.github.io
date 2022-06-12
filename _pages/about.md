@@ -107,12 +107,12 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 "[**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699)" (2020)  
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 _BMJ Global Health 2020;5:e002699_  
-**Cited in**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
 <div class="buttonbar">
     <button class="button" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
-    <button class="button" onclick="button(&quot;pres2&quot;)">Presented at</button> 
+    <button class="button" onclick="button(&quot;pres2&quot;)">Cited in/Presented at</button> 
      </div> 
   <div class="popup" id="abs3" style="display:none;">
+<b>Cited in:</b>  CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  <br>
 <b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
 <b>Methods</b> We use an augmented deterministic Susceptible-Infected-Recovered model to predict the true spread of the disease, under the containment measures taken so far. We disaggregate the infected compartment into asymptomatic, mildly symptomatic and severely symptomatic to match observed clinical development of COVID-19. We also account for age structures, urbanisation and comorbidities (HIV, tuberculosis, anaemia).  <br>
 <b>Results</b> In our baseline model, we project that the peak of active cases will occur in July, subject to the effectiveness of policy measures. When accounting for the urbanisation, and factoring in comorbidities, the peak may occur between 2 June and 17 June (Ghana), 22 July and 29 August (Kenya) and, finally, 28 May and 15 June (Senegal). Successful containment policies could lead to lower rates of severe infections. While most cases will be mild, we project in the absence of policies further containing the spread, that between 0.78% and 1.03%, 0.61% and 1.22%, and 0.60% and 0.84% of individuals in Ghana, Kenya and Senegal, respectively, may develop severe symptoms at the time of the peak of the epidemic.  <br>
