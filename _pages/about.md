@@ -35,7 +35,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
   </font>
 </div>
   <p></p>
-  <div class="popup" id="abs1" style="display:none;">
+  <div class="popup" id="pres1" style="display:none;">
     <font size="-1">
 2022: NOVA Conference on Economic Development (Lisbon),  International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School (Bristol) </br>
 2021: PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
