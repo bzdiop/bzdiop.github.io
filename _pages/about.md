@@ -104,7 +104,7 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   --> 
 
 ## Publication
-"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), _BMJ Global Health 2020;5:e002699_ ([Paper](https://gh.bmj.com/content/5/5/e002699))  
+"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), _BMJ Global Health 2020;5:e002699_ [[Paper](https://gh.bmj.com/content/5/5/e002699)]  
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
@@ -136,7 +136,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 
 
 ## Policy Reports (Pre-PhD) 
-"**Using Behavioral Science to Improve Criminal Justice Outcome**" (2018), _University of Chicago Crime Lab & ideas42_ [Paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)     
+"**Using Behavioral Science to Improve Criminal Justice Outcome**" (2018), _University of Chicago Crime Lab & ideas42_ [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]     
 Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)
 <div class="buttonbar">
