@@ -43,7 +43,7 @@ function button(id) {
 
 .button1 {background-color: #4CAF50;border-radius: 12px;} /* Green */
 .button2 {background-color: #008CBA;border-radius: 12px;} /* Blue */
-.button3 {background-color: #636363;border-radius: 12px;} /* Gray */
+.button3 {background-color: #969696;border-radius: 12px;} /* Gray */
 </style>
 </head>
 
