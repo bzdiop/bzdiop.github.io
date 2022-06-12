@@ -11,7 +11,7 @@ redirect_from:
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "pres1", "abs2", "pres2", "abs3", "abs4" ];
+  var ids = ["abs1", "pres1", "abs2", "pres2", "abs3", "pres3", "abs4" ];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
@@ -110,7 +110,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [ClÃ
 _BMJ Global Health 2020;5:e002699_  
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
-    <button class="button button3" onclick="button(&quot;pres2&quot;)">Cited in/Presented at</button> 
+    <button class="button button3" onclick="button(&quot;pres3&quot;)">Cited in/Presented at</button> 
      </div> 
   <div class="popup" id="abs3" style="display:none;">
 <b>Cited in:</b>  CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  <br>
@@ -124,7 +124,7 @@ _BMJ Global Health 2020;5:e002699_
       <b>The actual progression of infections:</b><br />  
       <img src="/images/covidreality.png" width="60%" height="60%">
 </div>
-  <div class="popup" id="pres2" style="display:none;">
+  <div class="popup" id="pres3" style="display:none;">
 World Health Organization TC Modeling Series (June 2020)
 </div>
   <p></p>
@@ -144,7 +144,7 @@ _University of Chicago Crime Lab & ideas42_
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
 Later published in _Science_ under the title â€œ[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
 <div class="buttonbar">
-    <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
+    <button class="button button3" onclick="button(&quot;abs4&quot;)">Abstract and Graphs</button> 
      </div> 
   <div class="popup" id="abs4" style="display:none;">
 Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br />
