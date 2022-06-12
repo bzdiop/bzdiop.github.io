@@ -27,6 +27,25 @@ function button(id) {
 }
 </script> 
 
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head>
+
 ## About me
 
 I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
@@ -43,10 +62,10 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 "**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"  
 Binta Zahra Diop  
 <div class="buttonbar">[ 
-    <button class="button" onclick="button(&quot;abs1&quot;)">Abstract</button> 
+    <button class="button button1" onclick="button(&quot;abs1&quot;)">Abstract</button> 
     | <button class="button" onclick="button(&quot;pres1&quot;)">Presentations</button> 
      ]</div> 
-  <div class="popup" id="abs1" >
+  <div class="popup" id="abs1" style="display:none;">
 I explore the impacts of agricultural input subsidies programs (ISPs) on internal migration. I construct a theoretical framework where ISPs address two common challenges. First, a learning externality leads farmers to use improved inputs only if some neighbors do so. By lowering the costs of adopting inputs, the ISP internalizes this externality. Second, farmers face a binding credit constraint, making the upfront cost of both fertilizer adoption and migration unaffordable. In the presence of resale markets, the subsidized bundle of fertilizer can be traded to either generate liquidity and migrate or purchase more fertilizer and double-down in agriculture. In this setting, resale markets improve the allocative efficiency of the ISP by turning it into a small cash-transfer to net re-sellers and a large in-kind transfer to net buyers. I substantiate the model's predictions using a panel of Zambian smallholders, many of whom benefited from an ISP. I find that the share of households relocating increases by 15pp compared to areas with no subsidy. For the remaining households, an additional 26pp send at least one member out to migrate.
 </div>
   <div class="popup" id="pres1" style="display:none;">
