@@ -11,7 +11,7 @@ redirect_from:
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "pres1", "abs2", "pres2", "abs3", "pres3", "abs4" ];
+  var ids = ["abs1", "pres1", "abs2", "pres2", "abs3", "pres3", "abs4", "pres4" ];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
@@ -141,13 +141,18 @@ World Health Organization TC Modeling Series (June 2020)
 "[**Using Behavioral Science to Improve Criminal Justice Outcome**](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)" (2018)  
 Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 _University of Chicago Crime Lab & ideas42_    
-**Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab  
+**Coverage**: 
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)  
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs4&quot;)">Abstract and Graphs</button> 
+    <button class="button button3" onclick="button(&quot;pres4&quot;)">Abstract and Graphs</button> 
      </div> 
   <div class="popup" id="abs4" style="display:none;">
 Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br />
+      <img src="/images/fta_form.png" width="50%" height="50%"><img src="/images/fta.png" width="50%" height="50%"> 
+</div>
+  <div class="popup" id="pres4" style="display:none;">
+Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab. <br />
       <img src="/images/fta_form.png" width="50%" height="50%"><img src="/images/fta.png" width="50%" height="50%"> 
 </div>
   <p></p>
