@@ -130,9 +130,9 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl√
 
     
 ## Code Published   
-"Simulations-based power calculations" (2019) - Stata ([Code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf))  
-"Compiling .tex files to .docx" (2020) - Unix ([Code](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf))  
-"Autogenerate your folder structure" (2020) - R and Stata [Code](https://csae.web.ox.ac.uk/sites/default/files/csae/documents/media/coderscorner_mt20week3_sp_v2.pdf) 
+"Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
+"Compiling .tex files to .docx" (2020) - Unix [[code](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf)]  
+"Autogenerate your folder structure" (2020) - R and Stata [[Code](https://csae.web.ox.ac.uk/sites/default/files/csae/documents/media/coderscorner_mt20week3_sp_v2.pdf)] 
 
 
 ## Policy Reports (Pre-PhD) 
