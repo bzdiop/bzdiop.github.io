@@ -149,7 +149,6 @@ Each year, millions of Americans fail to appear in court for low-level offenses,
 </div>
   <div class="popup" id="pres4" style="display:none;">
 Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab. <br />
-      <img src="/images/fta_form.png" width="50%" height="50%"><img src="/images/fta.png" width="50%" height="50%"> 
 </div>
   <p></p>
 
