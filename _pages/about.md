@@ -90,7 +90,7 @@ Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ism
 In order to deliver public services, governments must allocate scarce human and financial resources across their territories, yet there is little systematic evidence on the productivity of these inputs or allocative efficiency with which governments allocate them. We study this by leveraging a unique panel dataset of service delivery, health outcomes, and human and financial inputs in the universe of over 5,000 public health facilities in Ghana. Our research design allows us to estimate the marginal returns to health personnel on health service delivery quantity and quality, while controlling for unobserved heterogeneity across facilities. We benchmark these estimates to various methods of valuing health service delivery, to assess whether (and which kinds of) government expenditure on worker salaries are cost effective ways to improve service delivery. We also use these estimates to simulate the potential gains from several potential policies for improving health worker allocation.
 </div>
   <div class="popup" id="pres2" style="display:none;">
-<b>2022:</b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), WGAPE (2019), ODI Public Finance conference (2020)  
+Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019)  
 </div>
   <p></p>
   
