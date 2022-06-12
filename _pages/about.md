@@ -101,7 +101,7 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 <!-- ***  
 "**Migration Decisions: Frictions vs. Preferences**"   
-**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   -- 
+**Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   --> 
 
 ## Publication
 "[**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**](https://gh.bmj.com/content/5/5/e002699)" (2020)  
