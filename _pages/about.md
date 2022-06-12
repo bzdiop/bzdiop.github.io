@@ -53,7 +53,7 @@ I am a PhD candidate at the Department of Economics of the University of Oxford.
 
 I am the T.A for the Quantitative Methods course of Oxford's MSc. in Economics for Development and co-organized the 2021 conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/).  
 
-I will be co-hosting (with Max) the Machine Learning and Economics day at the Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022). Find the [program here](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).  
+I will be co-hosting (with Max) on June 20, 2022 the Machine Learning and Economics day at the Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022). Find the [program here](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).  
 
 Previously, I worked as a research staff at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/), and at [gui2de](https://gui2de.georgetown.edu/#). You can find an excerpt of my [CV here](https://bzdiop.github.io/cv/).
 
