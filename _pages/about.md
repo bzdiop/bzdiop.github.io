@@ -30,7 +30,7 @@ function button(id) {
 <head>
 <style>
 .button {
-  border: none;
+  border: black ; /*none*/
   color: black;
   padding: 5px 5px;
   text-align: center;
@@ -43,7 +43,7 @@ function button(id) {
 
 .button1 {background-color: #4CAF50;border-radius: 12px;} /* Green */
 .button2 {background-color: #008CBA;border-radius: 12px;} /* Blue */
-.button3 {background-color: #D3D3D3;border-radius: 12px;} /* Light Gray */
+.button3 {background-color: white;border-radius: 12px;} /* Light Gray */
 .button3 {background-color: #969696;border-radius: 12px;} /* Gray */
 
 </style>
