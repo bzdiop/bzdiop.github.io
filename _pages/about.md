@@ -79,9 +79,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
 
 
 
-  
-  
- **** 
+
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
 Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)
 <div class="buttonbar">
@@ -96,7 +94,8 @@ Economic Development and Wellbeing Research Group seminar series at the Universi
 </div>
   <p></p>
   
- **** 
+
+
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
 Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
 
