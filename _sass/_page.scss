@@ -1,31 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@bzdiop
-academicpages /
-academicpages.github.io
-Public
-
-Code
-Issues 140
-Pull requests 165
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-academicpages.github.io/_sass/_page.scss
-@staeiou
-staeiou make links underlined by default
-Latest commit 5055f27 on Oct 17, 2018
-History
-1 contributor
-401 lines (328 sloc) 6.3 KB
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
@@ -65,7 +37,6 @@ History
 .page__title {
   margin-top: 0;
   line-height: 1;
-
   & + .page__meta {
     margin-top: -0.5em;
   }
@@ -427,19 +398,3 @@ History
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
