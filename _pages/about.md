@@ -47,7 +47,7 @@ function button(id) {
 </style>
 </head>
 
-## About me
+## <font color="#800080">About me</font>
 
 I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
@@ -60,7 +60,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 ## Work in progress 
 
-``**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"  
+"**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"  
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs1&quot;)">Abstract</button> 
     <button class="button button3" onclick="button(&quot;pres1&quot;)">Presented at</button> 
