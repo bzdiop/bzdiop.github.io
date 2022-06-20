@@ -53,7 +53,7 @@ div {
 </style>
 </head>
 
-## About me
+<!-- ## About me -->
 
 I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
 
