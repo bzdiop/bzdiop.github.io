@@ -66,7 +66,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 ## Work in progress 
 
-"**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"  
+"**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs1&quot;)">Abstract</button> 
     <button class="button button3" onclick="button(&quot;pres1&quot;)">Presented at</button> 
@@ -84,7 +84,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
 
 
 
-"**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
+"**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"
 Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs2&quot;)">Research Plan</button> 
