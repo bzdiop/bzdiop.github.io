@@ -108,7 +108,7 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 "**Migration Decisions: Frictions vs. Preferences**"   
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   --> 
 
-## Publication
+## Publications
 "**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), _BMJ Global Health 2020;5:e002699_ [[paper](https://gh.bmj.com/content/5/5/e002699)]  
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)
 <div class="buttonbar">
@@ -134,7 +134,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 
 
     
-## Miscellaneous Publications  
+<!--## Miscellaneous Publications --> 
 #### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
 "Compiling .tex files to .docx" (2020) - Unix [[code](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf)]  
@@ -158,6 +158,11 @@ Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The
 </div>
   <p></p>
 
+
+#### Hosting 
+2021 Conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/).  
+
+2022 Machine Learning and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022).  
 
 <!-- 
 ## References
