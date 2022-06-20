@@ -134,13 +134,14 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 
 
     
-## Code Published   
+## Miscellaneous Publications  
+#### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
 "Compiling .tex files to .docx" (2020) - Unix [[code](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf)]  
 "Autogenerate your folder structure" (2020) - R and Stata [[code](https://csae.web.ox.ac.uk/sites/default/files/csae/documents/media/coderscorner_mt20week3_sp_v2.pdf)] 
 
 
-## Policy Reports (Pre-PhD) 
+#### Policy Reports (Pre-PhD)  
 "**Using Behavioral Science to Improve Criminal Justice Outcome**" (2018), _University of Chicago Crime Lab & ideas42_ [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]     
 Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)
