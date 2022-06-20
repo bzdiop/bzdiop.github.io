@@ -160,8 +160,8 @@ Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The
 
 
 #### Hosting 
-2021 Conference on "machine learning and economic inequality", hosted by Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
-2022 Machine Learning and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
+2021 Conference on "machine learning (ML) and economic inequality", hosted by Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
+2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
 <!-- 
 ## References
