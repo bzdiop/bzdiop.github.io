@@ -87,11 +87,11 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"
 Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)
 <div class="buttonbar">
-    <button class="button button3" onclick="button(&quot;abs2&quot;)">Research Plan</button> 
+    <button class="button button3" onclick="button(&quot;abs2&quot;)">Summary</button> 
     <button class="button button3" onclick="button(&quot;pres2&quot;)">Presented at</button> 
      </div> 
   <div class="popup" id="abs2" style="display:none;">
-In order to deliver public services, governments must allocate scarce human and financial resources across their territories, yet there is little systematic evidence on the productivity of these inputs or allocative efficiency with which governments allocate them. We study this by leveraging a unique panel dataset of service delivery, health outcomes, and human and financial inputs in the universe of over 5,000 public health facilities in Ghana. Our research design allows us to estimate the marginal returns to health personnel on health service delivery quantity and quality, while controlling for unobserved heterogeneity across facilities. We benchmark these estimates to various methods of valuing health service delivery, to assess whether (and which kinds of) government expenditure on worker salaries are cost effective ways to improve service delivery. We also use these estimates to simulate the potential gains from several potential policies for improving health worker allocation.
+We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes. 
 </div>
   <div class="popup" id="pres2" style="display:none;">
 Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019)  
