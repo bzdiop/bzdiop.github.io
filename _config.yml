@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Binta Zahra Diop"
   avatar           : "avatar.jpg"
-  bio              : "PhD Candidate"
-  location         : "Oxford, UK"
-  employer         : "Department of Economics, University of Oxford"
+  bio              : "PhD Candidate, Economics"
+  location         : 
+  employer         : "University of Oxford"
   pubmed           : 
   googlescholar    : 
   email            : "bintazahra.diop[at]economics.ox.ac.uk"
