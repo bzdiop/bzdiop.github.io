@@ -84,7 +84,7 @@ I explore the impacts of agricultural input subsidies programs (ISPs) on interna
 
 
 
-"**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"
+"**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
 Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)
 <div class="buttonbar">
     <button class="button button3" onclick="button(&quot;abs2&quot;)">Summary</button> 
