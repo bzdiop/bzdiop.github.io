@@ -8,50 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<script>
-function button(id) {
-  var x = document.getElementById(id);
-  var ids = ["abs1", "pres1", "abs2", "pres2", "abs3", "pres3", "abs4", "pres4" ];
-  for(var i = 0; i < ids.length; i++) {
-    var item = ids[i];
-    if (item != id) {
-      document.getElementById(item).style.display = "none";
-    } else {
-      if (x.style.display === "none") {
-        x.style.display = "block"
-      } else {
-        x.style.display = "none";
-      }
-    }
-  }	
-}
-</script> 
 
-<head>
-<style>
-.button {
-  border: black ; /*none*/
-  color: black;
-  padding: 5px 5px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12px;
-  margin: 1px 1px;
-  cursor: pointer;
-}
-
-.button1 {background-color: #4CAF50;border-radius: 12px;} /* Green */
-.button2 {background-color: #008CBA;border-radius: 12px;} /* Blue */
-.button3 {background-color: none: 12px;border-radius: 12px;} /* Light Gray */
-.button4 {background-color: #969696;border-radius: 12px;} /* Gray */
-
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
-</head>
 
 <!-- ## About me -->
 
@@ -139,6 +96,54 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
   
 <!-- 
+
+<script>
+function button(id) {
+  var x = document.getElementById(id);
+  var ids = ["abs1", "pres1", "abs2", "pres2", "abs3", "pres3", "abs4", "pres4" ];
+  for(var i = 0; i < ids.length; i++) {
+    var item = ids[i];
+    if (item != id) {
+      document.getElementById(item).style.display = "none";
+    } else {
+      if (x.style.display === "none") {
+        x.style.display = "block"
+      } else {
+        x.style.display = "none";
+      }
+    }
+  }	
+}
+</script> 
+
+<head>
+<style>
+.button {
+  border: black ; /*none*/
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 1px 1px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;border-radius: 12px;} /* Green */
+.button2 {background-color: #008CBA;border-radius: 12px;} /* Blue */
+.button3 {background-color: none: 12px;border-radius: 12px;} /* Light Gray */
+.button4 {background-color: #969696;border-radius: 12px;} /* Gray */
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+</head>
+
+
+
 ## References
 
 [Douglas Gollin](https://sites.google.com/site/douglasgollin/)  
