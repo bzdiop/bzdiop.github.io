@@ -37,7 +37,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 <details>
   <summary><b>"The Productivity and Allocation of Labor across Ghana’s Health Facilities"</b> <br>
-  Brice Cooke, Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/profile/Hamza_Ismaila">Hamza Ismaila</a>, <a href="https://www.researchgate.net/profile/Anthony_Ofosu">Anthony Ofosu</a>,  <a href="https://www.martinjwilliams.com">Martin J. Williams</a>
+Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/profile/Hamza_Ismaila">Hamza Ismaila</a>, <a href="https://www.researchgate.net/profile/Anthony_Ofosu">Anthony Ofosu</a>,  <a href="https://www.martinjwilliams.com">Martin J. Williams</a>
 </summary>
   <p>Summary:  We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes. <br>
 <b> Presented at: </b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019).<br>
