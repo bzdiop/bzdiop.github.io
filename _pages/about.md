@@ -73,7 +73,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <br>
 </p>
   </details>
-      
+  <br>    
 <!--## Miscellaneous Publications --> 
 #### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
