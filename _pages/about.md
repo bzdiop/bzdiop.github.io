@@ -116,7 +116,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <br>
 </p>
   </details>
- <br>       
+      
 <!--## Miscellaneous Publications --> 
 #### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
@@ -133,9 +133,8 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 </p>
   </details>
-  <br>
 
-#### Hosting
+## Hosting
 2021 Conference on "machine learning (ML) and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
 2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
   
