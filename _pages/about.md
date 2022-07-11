@@ -109,30 +109,25 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 **Presentations**: Urban Economic Association PhD Workshop, Elevator pitch (2020)   --> 
 
 ## Publications
-"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), _BMJ Global Health 2020;5:e002699_ [[paper](https://gh.bmj.com/content/5/5/e002699)]  
+
+
+<details>
+  <summary><b>"The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study"</b>  [<a href="https://gh.bmj.com/content/5/5/e002699">paper</a>]  <br>
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)
-<div class="buttonbar">
-    <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
-    <button class="button button3" onclick="button(&quot;pres3&quot;)">Cited in/Presented at</button> 
-     </div> 
-  <div class="popup" id="abs3" style="display:none;">
-<b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
+</summary>
+  <br>
+  <b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
 <b>Methods</b> We use an augmented deterministic Susceptible-Infected-Recovered model to predict the true spread of the disease, under the containment measures taken so far. We disaggregate the infected compartment into asymptomatic, mildly symptomatic and severely symptomatic to match observed clinical development of COVID-19. We also account for age structures, urbanisation and comorbidities (HIV, tuberculosis, anaemia).  <br>
 <b>Results</b> In our baseline model, we project that the peak of active cases will occur in July, subject to the effectiveness of policy measures. When accounting for the urbanisation, and factoring in comorbidities, the peak may occur between 2 June and 17 June (Ghana), 22 July and 29 August (Kenya) and, finally, 28 May and 15 June (Senegal). Successful containment policies could lead to lower rates of severe infections. While most cases will be mild, we project in the absence of policies further containing the spread, that between 0.78% and 1.03%, 0.61% and 1.22%, and 0.60% and 0.84% of individuals in Ghana, Kenya and Senegal, respectively, may develop severe symptoms at the time of the peak of the epidemic.  <br>
-<b>Conclusion</b> Compared with Europe, Africa’s younger and rural population may modify the severity of the epidemic. The large youth population may lead to more infections but most of these infections will be asymptomatic or mild, and will probably go undetected. The higher prevalence of underlying conditions must be considered.<br />  
-      <br />
-      <b>Predictions of the model:</b><br />  
-     <img src="/images/covidpredictions.png" width="60%" height="60%"> <br />
-      <b>The actual progression of infections:</b><br />  
+<b>Conclusion</b> Compared with Europe, Africa’s younger and rural population may modify the severity of the epidemic. The large youth population may lead to more infections but most of these infections will be asymptomatic or mild, and will probably go undetected. The higher prevalence of underlying conditions must be considered.
+<br>  
+      <br>
+      <b>Predictions of the model:</b><br>  
+     <img src="/images/covidpredictions.png" width="60%" height="60%"> <br>
+      <b>The actual progression of infections:</b><br>  
       <img src="/images/covidreality.png" width="60%" height="60%">
-</div>
-  <div class="popup" id="pres3" style="display:none;">
-<b>Cited in:</b>  CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  <br />
-<b> Presented at:</b>  World Health Organization TC Modeling Series (June 2020)
-</div>
-  <p></p>
-
-
+</p>
+  </details>
     
 <!--## Miscellaneous Publications --> 
 #### Code 
@@ -149,7 +144,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
   <br>
   <p>Abstract:  Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br>
       <img src="/images/fta_form.png" width="50%" height="50%"><img src="/images/fta.png" width="50%" height="50%"> <br>
-<b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.
+<b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 </p>
   </details>
 
@@ -195,6 +190,34 @@ Each year, millions of Americans fail to appear in court for low-level offenses,
 </div>
   <div class="popup" id="pres4" style="display:none;">
 Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab. <br />
+</div>
+  <p></p>
+
+
+
+
+
+
+"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), _BMJ Global Health 2020;5:e002699_ [[paper](https://gh.bmj.com/content/5/5/e002699)]  
+Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)
+<div class="buttonbar">
+    <button class="button button3" onclick="button(&quot;abs3&quot;)">Abstract and Graphs</button> 
+    <button class="button button3" onclick="button(&quot;pres3&quot;)">Cited in/Presented at</button> 
+     </div> 
+  <div class="popup" id="abs3" style="display:none;">
+<b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
+<b>Methods</b> We use an augmented deterministic Susceptible-Infected-Recovered model to predict the true spread of the disease, under the containment measures taken so far. We disaggregate the infected compartment into asymptomatic, mildly symptomatic and severely symptomatic to match observed clinical development of COVID-19. We also account for age structures, urbanisation and comorbidities (HIV, tuberculosis, anaemia).  <br>
+<b>Results</b> In our baseline model, we project that the peak of active cases will occur in July, subject to the effectiveness of policy measures. When accounting for the urbanisation, and factoring in comorbidities, the peak may occur between 2 June and 17 June (Ghana), 22 July and 29 August (Kenya) and, finally, 28 May and 15 June (Senegal). Successful containment policies could lead to lower rates of severe infections. While most cases will be mild, we project in the absence of policies further containing the spread, that between 0.78% and 1.03%, 0.61% and 1.22%, and 0.60% and 0.84% of individuals in Ghana, Kenya and Senegal, respectively, may develop severe symptoms at the time of the peak of the epidemic.  <br>
+<b>Conclusion</b> Compared with Europe, Africa’s younger and rural population may modify the severity of the epidemic. The large youth population may lead to more infections but most of these infections will be asymptomatic or mild, and will probably go undetected. The higher prevalence of underlying conditions must be considered.<br />  
+      <br />
+      <b>Predictions of the model:</b><br />  
+     <img src="/images/covidpredictions.png" width="60%" height="60%"> <br />
+      <b>The actual progression of infections:</b><br />  
+      <img src="/images/covidreality.png" width="60%" height="60%">
+</div>
+  <div class="popup" id="pres3" style="display:none;">
+<b>Cited in:</b>  CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  <br />
+<b> Presented at:</b>  World Health Organization TC Modeling Series (June 2020)
 </div>
   <p></p>
 -->
