@@ -66,37 +66,31 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 ## Work in progress 
 
-"**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"
-<div class="buttonbar">
-    <button class="button button3" onclick="button(&quot;abs1&quot;)">Abstract</button> 
-    <button class="button button3" onclick="button(&quot;pres1&quot;)">Presented at</button> 
-     </div> 
-  <div class="popup" id="abs1" style="display:none;">
-I explore the impacts of agricultural input subsidies programs (ISPs) on internal migration. I construct a theoretical framework where ISPs address two common challenges. First, a learning externality leads farmers to use improved inputs only if some neighbors do so. By lowering the costs of adopting inputs, the ISP internalizes this externality. Second, farmers face a binding credit constraint, making the upfront cost of both fertilizer adoption and migration unaffordable. In the presence of resale markets, the subsidized bundle of fertilizer can be traded to either generate liquidity and migrate or purchase more fertilizer and double-down in agriculture. In this setting, resale markets improve the allocative efficiency of the ISP by turning it into a small cash-transfer to net re-sellers and a large in-kind transfer to net buyers. I substantiate the model's predictions using a panel of Zambian smallholders, many of whom benefited from an ISP. I find that the share of households relocating increases by 15pp compared to areas with no subsidy. For the remaining households, an additional 26pp send at least one member out to migrate.
-</div>
-  <div class="popup" id="pres1" style="display:none;">
-<b>2022:</b> NOVA Conference on Economic Development (Lisbon),  International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School (Bristol) <br />
+<details>
+  <summary><b>"Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions"</b>
+</summary>
+  <br>
+  <p>Summary:  I explore the impacts of agricultural input subsidies programs (ISPs) on internal migration. I construct a theoretical framework where ISPs address two common challenges. First, a learning externality leads farmers to use improved inputs only if some neighbors do so. By lowering the costs of adopting inputs, the ISP internalizes this externality. Second, farmers face a binding credit constraint, making the upfront cost of both fertilizer adoption and migration unaffordable. In the presence of resale markets, the subsidized bundle of fertilizer can be traded to either generate liquidity and migrate or purchase more fertilizer and double-down in agriculture. In this setting, resale markets improve the allocative efficiency of the ISP by turning it into a small cash-transfer to net re-sellers and a large in-kind transfer to net buyers. I substantiate the model's predictions using a panel of Zambian smallholders, many of whom benefited from an ISP. I find that the share of households relocating increases by 15pp compared to areas with no subsidy. For the remaining households, an additional 26pp send at least one member out to migrate. <br> 
+<b> Presentions: </b> <br>
+<b>2022:</b> International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School (Bristol) <br>
 <b>2021:</b> PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
-</div>
-  <p></p>
+</p>
+  </details>
 
 
 
 
+<details>
+  <summary><b>"The Productivity and Allocation of Labor across Ghana’s Health Facilities"</b> <br>
+  Brice Cooke, Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/profile/Hamza_Ismaila">Hamza Ismaila</a>, <a href="https://www.researchgate.net/profile/Anthony_Ofosu">Anthony Ofosu</a>,  <a href="https://www.martinjwilliams.com">Martin J. Williams</a>
+</summary>
+  <br>
+  <p>Summary:  We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes. <br>
+<b> Presented at: </b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019).<br>
+</p>
+  </details>
 
-"**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
-Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)
-<div class="buttonbar">
-    <button class="button button3" onclick="button(&quot;abs2&quot;)">Summary</button> 
-    <button class="button button3" onclick="button(&quot;pres2&quot;)">Presented at</button> 
-     </div> 
-  <div class="popup" id="abs2" style="display:none;">
-We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes. 
-</div>
-  <div class="popup" id="pres2" style="display:none;">
-Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019)  
-</div>
-  <p></p>
+
   
 
 
@@ -113,7 +107,7 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 <details>
   <summary><b>"The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study"</b>  [<a href="https://gh.bmj.com/content/5/5/e002699">paper</a>]  <br>
-Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)
+Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngom</a>, <a href="https://www.pantheonsorbonne.fr/page-perso/e1904015601">Clémence Pougué Biyong</a> , <a href="https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/">John N. Pougué Biyong</a> 
 </summary>
   <br>
   <b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
@@ -220,4 +214,37 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 <b> Presented at:</b>  World Health Organization TC Modeling Series (June 2020)
 </div>
   <p></p>
+
+
+
+"**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
+Binta Zahra Diop, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu), [Martin J. Williams](https://martinjwilliams.com/)
+<div class="buttonbar">
+    <button class="button button3" onclick="button(&quot;abs2&quot;)">Summary</button> 
+    <button class="button button3" onclick="button(&quot;pres2&quot;)">Presented at</button> 
+     </div> 
+  <div class="popup" id="abs2" style="display:none;">
+We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes. 
+</div>
+  <div class="popup" id="pres2" style="display:none;">
+Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019)  
+</div>
+  <p></p>
+
+
+
+"**Input Subsidies in a Second-Best Environment: Allocative Efficiency, and Migration Decisions**"
+<div class="buttonbar">
+    <button class="button button3" onclick="button(&quot;abs1&quot;)">Abstract</button> 
+    <button class="button button3" onclick="button(&quot;pres1&quot;)">Presented at</button> 
+     </div> 
+  <div class="popup" id="abs1" style="display:none;">
+I explore the impacts of agricultural input subsidies programs (ISPs) on internal migration. I construct a theoretical framework where ISPs address two common challenges. First, a learning externality leads farmers to use improved inputs only if some neighbors do so. By lowering the costs of adopting inputs, the ISP internalizes this externality. Second, farmers face a binding credit constraint, making the upfront cost of both fertilizer adoption and migration unaffordable. In the presence of resale markets, the subsidized bundle of fertilizer can be traded to either generate liquidity and migrate or purchase more fertilizer and double-down in agriculture. In this setting, resale markets improve the allocative efficiency of the ISP by turning it into a small cash-transfer to net re-sellers and a large in-kind transfer to net buyers. I substantiate the model's predictions using a panel of Zambian smallholders, many of whom benefited from an ISP. I find that the share of households relocating increases by 15pp compared to areas with no subsidy. For the remaining households, an additional 26pp send at least one member out to migrate.
+</div>
+  <div class="popup" id="pres1" style="display:none;">
+<b>2022:</b> NOVA Conference on Economic Development (Lisbon),  International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan)_, Royal Economic Society Easter Training School (Bristol) <br />
+<b>2021:</b> PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
+</div>
+  <p></p>
+  
 -->
