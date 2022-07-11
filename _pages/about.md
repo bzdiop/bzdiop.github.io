@@ -57,7 +57,7 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 
 <details>
-  <summary><b>"The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study"</b>  [<a href="https://gh.bmj.com/content/5/5/e002699">paper</a>]  <br>
+  <summary><b>"The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study"</b> (2020), <i> BMJ Global Health 2020;5:e002699 </i>  [<a href="https://gh.bmj.com/content/5/5/e002699">paper</a>]  <br>
 Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngom</a>, <a href="https://www.pantheonsorbonne.fr/page-perso/e1904015601">Clémence Pougué Biyong</a> , <a href="https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/">John N. Pougué Biyong</a> 
 </summary>
   <b>Introduction</b> A novel coronavirus disease 2019 (COVID-19) has spread to all regions of the world. There is great uncertainty regarding how countries’ characteristics will affect the spread of the epidemic; to date, there are few studies that attempt to predict the spread of the epidemic in African countries. In this paper, we investigate the role of demographic patterns, urbanisation and comorbidities on the possible trajectories of COVID-19 in Ghana, Kenya and Senegal.<br>
