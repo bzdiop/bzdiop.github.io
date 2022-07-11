@@ -151,12 +151,10 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl√
       <img src="/images/fta_form.png" width="50%" height="50%"><img src="/images/fta.png" width="50%" height="50%"> <br>
 <b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.
  <br>
+
 </details>
 
-
-
-
-#### Hosting 
+#### Hosting
 2021 Conference on "machine learning (ML) and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
 2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
