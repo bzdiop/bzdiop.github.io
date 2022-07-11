@@ -116,7 +116,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <br>
 </p>
   </details>
-        
+ <br>       
 <!--## Miscellaneous Publications --> 
 #### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
@@ -160,10 +160,9 @@ martin.williams[at]bsg.ox.ac.uk
 [Christopher Woodruff](https://chriswoodruff.qeh.ox.ac.uk/) (Teaching)  
 Professor   
 University of Oxford  
-christopher.woodruff[at]qeh.ox.ac.uk   -->
+christopher.woodruff[at]qeh.ox.ac.uk   
 
 
-<!-- 
 "**Using Behavioral Science to Improve Criminal Justice Outcome**" (2018), _UChicago Crime Lab & ideas42_ [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]     
 Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 Later published in _Science_ under the title “[Behavioral nudges reduce failure to appear in court](https://science.sciencemag.org/content/early/2020/10/07/science.abb6591.abstract)" (2020)
