@@ -79,6 +79,9 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
 "Compiling .tex files to .docx" (2020) - Unix [[code](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf)]  
 "Autogenerate your folder structure" (2020) - R and Stata [[code](https://csae.web.ox.ac.uk/sites/default/files/csae/documents/media/coderscorner_mt20week3_sp_v2.pdf)] 
+#### Hosting
+2021 Conference on "machine learning (ML) and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
+2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
 #### Policy Reports (Pre-PhD)  
 <details>
@@ -91,9 +94,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 </p>
   </details>
 
-## Hosting
-2021 Conference on "machine learning (ML) and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
-2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
+
   
 <!-- 
 
