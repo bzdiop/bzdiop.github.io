@@ -69,8 +69,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
       <b>Predictions of the model:</b><br>  
      <img src="/images/covidpredictions.png" width="60%" height="60%"> <br>
       <b>The actual progression of infections:</b><br>  
-      <img src="/images/covidreality.png" width="60%" height="60%">
-<br>
+      <img src="/images/covidreality.png" width="60%" height="60%"> <br>
 </p>
   </details>
   <br>    
