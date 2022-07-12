@@ -71,6 +71,10 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
      <img src="/images/covidpredictions.png" width="60%" height="60%"> <br>
       <b>The actual progression of infections:</b><br>  
       <img src="/images/covidreality.png" width="60%" height="60%"> <br>
+
+<br>
+<b>Mentions</b>: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  <br>
+<b> Talks:</b>  World Health Organization TC Modeling Series (June 2020)
   </details>
   <br>    
 <!--## Miscellaneous Publications --> 
