@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
+
 
 
 <!-- ## About me -->
@@ -29,7 +26,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 <details>
   <summary><b>"Antipoverty Policies in a Second-Best Environment: Allocative Efficiency and Sorting Via Resale Markets"</b>
 </summary>
-  <p><b>Abstract</b>:  Rural antipoverty programs often focus on increasing agricultural productivity, for many farmers however, outmigration may be both more effective and preferred. I explore the impacts of those programs -- especially input subsidies programs (ISPs)  -- on internal migration and on the adoption of productive technologies.
+  <p style="text-align:justify;"><b>Abstract</b>:  Rural antipoverty programs often focus on increasing agricultural productivity, for many farmers however, outmigration may be both more effective and preferred. I explore the impacts of those programs -- especially input subsidies programs (ISPs)  -- on internal migration and on the adoption of productive technologies.
 First, I use a panel of Zambian smallholders, many of whom received subsidized fertilizer vouchers (the ISP). With a difference-in-difference exploiting variations in its roll-out, I show that the ISP indeed increases rates of adoption, but also had the unintended effect of increasing by 15pp the share of households divesting from agriculture and migrating. Such a migration response relies on farmers monetizing the subsidy on resale markets. 
 Second, I generalize these findings with a GE framework where farmers face upfront costs to both to migrating and adopting the technology and an externality on the latter. When resale markets exist, farmers can purchase more of the subsidized input to intensify their agricultural activity or they can resell their vouchers to generate liquidity and engage in off-farm activities or migrate. When farmers' types are costly to elicit, resale markets can improve the allocative efficiency of programs, turning any voucher or in-kind program into a cash-transfer to net re-sellers and a large in-kind transfer to net buyers thus relaxing credit constraints for all types of farmers who can specialize.
 Third, I estimate this model structurally and benchmark ISPs against other popular rural policies. I find that only ISPs foster these levels of specialization. <br> 
@@ -46,7 +43,7 @@ Third, I estimate this model structurally and benchmark ISPs against other popul
   <summary><b>"The Productivity and Allocation of Labor across Ghana’s Health Facilities"</b> <br>
 Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/profile/Hamza_Ismaila">Hamza Ismaila</a>, <a href="https://www.researchgate.net/profile/Anthony_Ofosu">Anthony Ofosu</a>,  <a href="https://www.martinjwilliams.com">Martin J. Williams</a>
 </summary>
-  <p><b>Summary</b>:  We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes. <br>
+  <p style="text-align:justify;"><b>Summary</b>:  We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes. <br>
 <b> Presented at: </b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019).<br>
 </p>
   </details>
@@ -97,7 +94,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
   <summary><b>"Using Behavioral Science to Improve Criminal Justice Outcome"</b>  [<a href="http://theslab.uchicago.edu/anuj/uploads/summons.pdf">paper</a>]  <br>
   Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, <a href="http://aouss.github.io/">Aurélie Ouss</a>, <a href="https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah">Anuj K. Shah</a>
 </summary>
-  <p>Abstract:  Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br>
+ <p style="text-align:justify;"><b>Abstract</b>:  Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br>
       <img src="/images/fta_form.png" width="50%" height="50%"><img src="/images/fta.png" width="50%" height="50%"> <br>
 <b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 </p>
