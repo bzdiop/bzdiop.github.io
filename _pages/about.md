@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 
 <!-- ## About me -->
