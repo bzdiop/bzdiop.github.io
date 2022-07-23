@@ -32,7 +32,7 @@ Second, I generalize these findings with a GE framework where farmers face upfro
 Third, I estimate this model structurally and benchmark ISPs against other popular rural policies. I find that only ISPs foster these levels of specialization. <br> 
 <br>
 <b> Presentions: </b> <br>
-<b>2022:</b> International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan), Royal Economic Society Easter Training School (Bristol) <br>
+<b>2022:</b> 37th meeting of the European Economic Association/74th European meeting of the Econometric Society (EEA-ESEM, Milan), International Conference on Development Economics (AFEDEV1, Clermont-Ferrand), Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, Royal Economic Society Easter Training School (Bristol) <br>
 <b>2021:</b> PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 </p>
   </details>
