@@ -34,7 +34,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 <b>2021:</b> PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 </p>
   </details>
- <br> 
+<td style="padding-top: 2px;"> </td>
 
 
 <details>
@@ -45,7 +45,8 @@ Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/p
 <b> Presented at: </b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019).<br>
 </p>
   </details>
- <br> 
+<td style="padding-top: 2px;"> </td>
+
 
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
 Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
@@ -78,7 +79,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b> Talks:</b>  World Health Organization TC Modeling Series (June 2020)
 </p>
   </details>
-<td style="padding-top: 2px;">...</td>
+<td style="padding-top: 2px;"> </td>
 <!--## Miscellaneous Publications --> 
 #### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
