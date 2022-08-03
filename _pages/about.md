@@ -23,6 +23,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 
 ## Work in progress 
 
+<td style="padding-top: 2px;"> 
 <details>
   <summary><b>"Antipoverty Policies with Resale Markets: Sorting, Allocative  Efficiency, and Internal Migration" (JMP) </b>
 </summary>
@@ -36,7 +37,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
   </details>
 <td style="padding-top: 2px;"> </td>
 
-
+<td style="padding-top: 2px;"> 
 <details>
   <summary><b>"The Productivity and Allocation of Labor across Ghana’s Health Facilities"</b> <br>
 Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/profile/Hamza_Ismaila">Hamza Ismaila</a>, <a href="https://www.researchgate.net/profile/Anthony_Ofosu">Anthony Ofosu</a>,  <a href="https://www.martinjwilliams.com">Martin J. Williams</a>
@@ -45,7 +46,7 @@ Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/p
 <b> Presented at: </b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019).<br>
 </p>
   </details>
-<td style="padding-top: 2px;"> </td>
+</td>
 
 
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
