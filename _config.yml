@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Binta Zahra Diop"
   avatar           : "avatar.jpg"
-  bio              : "PhD Candidate, Economics, University of Oxford & PhD Scholar, Institute For Fiscal Studies (IFS)"
-  location         : "Oxford & London" 
-  employer         : "University of Oxford & IFS"
+  bio              : "PhD Candidate, Economics & PhD Scholar, IFS"
+  location         : 
+  employer         : "University of Oxford & Institute For Fiscal Studies (IFS)"
   pubmed           : 
   googlescholar    : 
   email            : "bintazahra.diop[at]economics.ox.ac.uk"
