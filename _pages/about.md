@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br style="line-height:0px;" />
+
 
 
 <!-- ## About me -->
@@ -36,7 +36,7 @@ Previously, I worked as a research staff at the [University of Chicago Urban Lab
 <b>2021:</b> PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 </p>
   </details>
-<br>
+<br style="line-height:0px;" />
 
 
 <details>
@@ -47,7 +47,7 @@ Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/p
 <b> Presented at: </b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019).<br>
 </p>
   </details>
-<br>
+<br style="line-height:0px;" />
 
 
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
@@ -69,7 +69,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b>Methods</b> We use an augmented deterministic Susceptible-Infected-Recovered model to predict the true spread of the disease, under the containment measures taken so far. We disaggregate the infected compartment into asymptomatic, mildly symptomatic and severely symptomatic to match observed clinical development of COVID-19. We also account for age structures, urbanisation and comorbidities (HIV, tuberculosis, anaemia).  <br>
 <b>Results</b> In our baseline model, we project that the peak of active cases will occur in July, subject to the effectiveness of policy measures. When accounting for the urbanisation, and factoring in comorbidities, the peak may occur between 2 June and 17 June (Ghana), 22 July and 29 August (Kenya) and, finally, 28 May and 15 June (Senegal). Successful containment policies could lead to lower rates of severe infections. While most cases will be mild, we project in the absence of policies further containing the spread, that between 0.78% and 1.03%, 0.61% and 1.22%, and 0.60% and 0.84% of individuals in Ghana, Kenya and Senegal, respectively, may develop severe symptoms at the time of the peak of the epidemic.  <br>
 <b>Conclusion</b> Compared with Europe, Africa’s younger and rural population may modify the severity of the epidemic. The large youth population may lead to more infections but most of these infections will be asymptomatic or mild, and will probably go undetected. The higher prevalence of underlying conditions must be considered.
-<br>  
+<br style="line-height:0px;" /> 
       <br>
       <b>Predictions of the model:</b><br>  
      <img src="/images/covidpredictions.png" width="60%" height="60%"> <br>
@@ -81,7 +81,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b> Talks:</b>  World Health Organization TC Modeling Series (June 2020)
 </p>
   </details>
-<br>
+<br style="line-height:0px;" />
 
 
 <!--## Miscellaneous Publications --> 
@@ -100,6 +100,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 </p>
   </details>
+<br style="line-height:0px;" />
 
 #### Hosting
 2021 Conference on "machine learning (ML) and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
