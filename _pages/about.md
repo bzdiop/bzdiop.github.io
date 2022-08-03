@@ -78,7 +78,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b> Talks:</b>  World Health Organization TC Modeling Series (June 2020)
 </p>
   </details>
-  <br>    
+<td style="padding-top: 2px;">...</td>
 <!--## Miscellaneous Publications --> 
 #### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
