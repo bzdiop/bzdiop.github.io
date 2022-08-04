@@ -12,9 +12,11 @@ redirect_from:
 
 <!-- ## About me -->
 
-I am a PhD candidate at the Department of Economics of the University of Oxford. My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
+I am a PhD candidate at the Department of Economics of the University of Oxford and a PhD scholar at the Institute for fiscal studies (IFS). I use innovative micro-data and empirical methods founded in economic theory to study the drivers of internal migration choices and the matching of healthcare workers and facilities at the country level. My work aims to understand migration and location choices of people under constraints, both positive (driven by central policy choices) and normative (from fairness principles). 
 
-<!-- I am the T.A for the Quantitative Methods course of Oxford's MSc. in Economics for Development and co-organized the 2021 conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/).  
+ <!-- My research is in applied microeconomics, with a focus on health and migrations. I am interested in understanding the factors --- frictions and preferences --- that influence individuals' decision to relocate within a country.  
+
+I am the T.A for the Quantitative Methods course of Oxford's MSc. in Economics for Development and co-organized the 2021 conference on "machine learning and economic inequality", hosted by [Maximilian Kasy](https://maxkasy.github.io/home/).  
 
 I will be co-hosting (with Max) on June 20, 2022 the Machine Learning and Economics day at the Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022). Find the [program here](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).  
 
@@ -102,11 +104,15 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
   </details>
 <br style="line-height:0px;" />
 
-#### Hosting
+## Other
+#### Conference Hosting
 2021 Conference on "machine learning (ML) and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
 2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
-
+#### Teaching
+2020-2021, 2021-2022  Graduate Quantitative -- Methods, MSc. in Economics for Development, Oxford [[syllabus](http://bzdiop.github.io/files/AboutMe/QM2020_Syllabus.pdf)]  
+2019, 2022  Graduate -- Statistical Coding, MSc. in Economics for Development, Oxford  
+2019 Undergraduate -- Development Economics, Exeter Summer School, Oxford
   
 <!-- 
 
