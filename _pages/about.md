@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+details > summary {
+  padding: 4px;
+}
 
 <!-- ## About me -->
 
