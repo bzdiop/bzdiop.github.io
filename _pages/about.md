@@ -30,7 +30,6 @@ I am a PhD candidate at the Department of Economics of the University of Oxford 
 <b>2021:</b> PhD Student Workshop of the Urban Economics Association, Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg, 10th European Meeting of the Urban Economics Association, Africa Meeting of the Econometric Society, Midwest International Economic Development Conference  
 </p>
   </details>
-%<br style="line-height:0px;" />
 
   
 <details>
@@ -41,7 +40,6 @@ Binta Zahra Diop, Koku Awoonor-Williams, <a href="https://www.researchgate.net/p
 <b> Presented at: </b> Economic Development and Wellbeing Research Group seminar series at the University of Johannesburg (2022), ODI Public Finance conference (2020), WGAPE (2019).<br>
 </p>
   </details>
-%<br style="line-height:0px;" />
   
 
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
@@ -75,9 +73,8 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b> Talks:</b>  World Health Organization TC Modeling Series (June 2020)
 </p>
   </details>
-<br style="line-height:0px;" />
 
-
+  
 #### Code 
 "Simulations-based power calculations" (2019) - Stata [[code](https://csae.web.ox.ac.uk/files/coderscornerttweek5fmpdf)]  
 "Compiling .tex files to .docx" (2020) - Unix [[code](https://csae.web.ox.ac.uk/files/coderscornermt19week4fm1pdf)]  
@@ -93,15 +90,15 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 <b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 </p>
   </details>
-  
 
+  
 ## Other
 #### Conference Hosting
 2021 Conference on "machine learning (ML) and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
 2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
 #### Teaching
-2020-2021, 2021-2022  Graduate -- **Quantitative Methods**, MSc. in Economics for Development, Oxford [[syllabus](http://bzdiop.github.io/files/AboutMe/QM2020_Syllabus.pdf)]  
-2019, 2022  Graduate -- **Statistical Coding**, MSc. in Economics for Development, Oxford  
-2019 Undergraduate -- **Development Economics**, Exeter Summer School, Oxford
+* 2020-2021, 2021-2022  Graduate -- **Quantitative Methods**, MSc. in Economics for Development, Oxford [[syllabus](http://bzdiop.github.io/files/AboutMe/QM2020_Syllabus.pdf)]  
+* 2019, 2022  Graduate -- **Statistical Coding**, MSc. in Economics for Development, Oxford  
+* 2019 Undergraduate -- **Development Economics**, Exeter Summer School, Oxford
   
