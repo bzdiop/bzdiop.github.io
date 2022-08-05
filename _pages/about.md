@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-details > summary {
-  padding: 4px;
-}
+
 
 <!-- ## About me -->
 
@@ -21,7 +19,7 @@ I am a PhD candidate at the Department of Economics of the University of Oxford 
 
 
 <details>
-  <summary><b>"Antipoverty Policies with Resale Markets: Sorting, Allocative  Efficiency, and Internal Migration" (JMP) </b>
+  <summary><b><p>"Antipoverty Policies with Resale Markets: Sorting, Allocative  Efficiency, and Internal Migration" (JMP)</p> </b>
 </summary>
   <p style="text-align:justify;"><b>Abstract</b>:  Rural antipoverty programs often focus on increasing agricultural productivity and transfer resources to farmers to help them do so. Yet, many farmers' most productive investment may be in another technology: migration. I explore the impacts of such programs on productivity and on migration. First, I use a difference-in-difference exploiting variations in the roll-out of a Zambian fertilizer voucher program. As expected, the program increases rates of fertilizer adoption and yields. There is an additional two-fold increase in individual outmigration. Meaning that for some farmers, these vouchers lead to divestment from agriculture and to migration. Migration occurring on the year of the program --consistent with farmers monetizing the subsidy on resale markets to fund migration-- accounts for 30% of the variance in migration. Second, I generalize these findings with a structural general equilibrium framework accounting for an externality in adoption. These estimates allow me to compare input subsidies against cash transfers and in-kind programs without resale markets. I find that only input subsidies foster these levels of specialization. When farmers’ types are costly to elicit, resale markets can improve the allocative efficiency of programs. These markets turn any voucher or in-kind program into a cash-transfer to net re-sellers and a large in-kind transfer to net buyers. They thus relax credit constraints for all types of farmers who can specialize. 
 <br>
