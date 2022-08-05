@@ -98,7 +98,7 @@ Binta Zahra Diop, <a href="https://www.anl.gov/profile/marieme-ngom">Marieme Ngo
 2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
 #### Teaching
-* 2020-2021, 2021-2022  Graduate -- **Quantitative Methods**, MSc. in Economics for Development, Oxford [[syllabus](http://bzdiop.github.io/files/AboutMe/QM2020_Syllabus.pdf)]  
-* 2019, 2022  Graduate -- **Statistical Coding**, MSc. in Economics for Development, Oxford  
-* 2019 Undergraduate -- **Development Economics**, Exeter Summer School, Oxford
+* **Quantitative Methods** (Graduate), MSc. in Economics for Development, Oxford [[syllabus](http://bzdiop.github.io/files/AboutMe/QM2020_Syllabus.pdf)] (2020-2021, 2021-2022)  
+* **Statistical Coding** (Graduate), MSc. in Economics for Development, Oxford (2019, 2022)  
+* **Development Economics** (Undergraduate), Exeter Summer School, Oxford (2019)
   
