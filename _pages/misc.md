@@ -10,10 +10,10 @@ I do/did a lot of very random things. And here's a sneak peak:
 2022 ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
 #### Photography 
-* I was one of ten laureates of the 2018 UNESCO world heritage photography contest
-* The same photo was used as a cover of [Wërsëg](https://www.musikbi.com/set/839-werseg), the latest album of the Senegalese Jazz band Jamm  
+2018 I was one of ten laureates of the 2018 UNESCO world heritage photography contest . 
+2018 The same photo was used as a cover of [Wërsëg](https://www.musikbi.com/set/839-werseg), the latest album of the Senegalese Jazz band Jamm  
 
 #### Sports
-* I used to swim, competitively -- made it to the Olympics, and got a few African medals (African championships and African games) 
-* I also made to the cover of Sport, Les Photos Les Plus Incroyables of Jean-Damien Lesay. 
+2007-2011 I used to swim, competitively -- made it to the Olympics, and got a few African medals (African championships and African games)  
+I also made to the cover of Sport, Les Photos Les Plus Incroyables of Jean-Damien Lesay.  
 
