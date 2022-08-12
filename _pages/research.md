@@ -46,10 +46,8 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 ## Policy Reports (Pre-PhD)  
 
 #### "Using Behavioral Science to Improve Criminal Justice Outcomes"  [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]. 
-  Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, <a href="http://aouss.github.io/">Aurélie Ouss</a>, <a href="https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah">Anuj K. Shah</a>
-**Summary**:   Each year, millions of Americans fail to appear in court for low-level offenses, and warrants are then issued for their arrest. In two field studies in New York City, we make critical information salient by redesigning the summons form and providing text message reminders. These interventions reduce failures to appear by 13 to 21% and lead to 30,000 fewer arrest warrants over a 3-year period. In laboratory experiments, we find that whereas criminal justice professionals see failures to appear as relatively unintentional, laypeople believe they are more intentional. These lay beliefs reduce support for policies that make court information salient and increase support for punishment. Our findings suggest that criminal justice policies can be made more effective and humane by anticipating human error in unintentional offenses.<br>
-      <img src="/images/fta_form.png" width="50%" height="50%"><img src="/images/fta.png" width="50%" height="50%"> <br>
-<b> Coverage: </b> Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
+  Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+**Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 
 
 
