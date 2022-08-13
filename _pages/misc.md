@@ -14,7 +14,7 @@ I do/did a lot of very random things. And here's a sneak peak:
 2018 The same photo was used as a cover of [Wërsëg](https://www.musikbi.com/set/839-werseg), the latest album of the Senegalese Jazz band Jamm  
 
 #### Sports
-2007-2011 I used to swim, competitively -- made it to the Olympics, and got a few African medals (African championships and African games)  
+2007-2011 I used to swim, competitively -- made it to the Olympics, and got a few continental medals (African championships and African games)  
 I also made to the cover of the book _"Sport, Les Photos Les Plus Incroyables"_ by Jean-Damien Lesay.  
 
 <img src="/images/sportphotosincroyables.png"> 
