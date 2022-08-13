@@ -17,3 +17,4 @@ I do/did a lot of very random things. And here's a sneak peak:
 2007-2011 I used to swim, competitively -- made it to the Olympics, and got a few African medals (African championships and African games)  
 I also made to the cover of Sport, Les Photos Les Plus Incroyables of Jean-Damien Lesay.  
 
+<img src="/images/sportphotosincroyables.jpg" width="60%" height="60%"> 
