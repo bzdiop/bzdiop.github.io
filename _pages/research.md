@@ -26,8 +26,10 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 
 #### "The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study" (2020), BMJ Global Health 2020;5:e002699  [[paper](https://gh.bmj.com/content/5/5/e002699">paper)]  
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
+**Media Citations**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
+**Talks**:  WHO TC Modeling Series (June 2020)  
 <details style="padding-bottom:2px"> 
- <summary><b>Comparison between predictions and actual COVID19 progressions</b></summary>
+ <summary><b>Comparison between predictions and actual COVID19 progressions (click to uncover)</b></summary>
 <br style="line-height:0px;" /> 
       <br>
       <b>Predictions of the model:</b><br>  
@@ -36,12 +38,9 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
       <img src="/images/covidreality.png"> <br>
 
 <br>
-<b>Mentions</b>: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  <br>
-<b> Talks:</b>  WHO TC Modeling Series (June 2020)
 </p>
   </details>
 <br>
-  
 
 
 ## Policy Reports (Pre-PhD)  
@@ -49,7 +48,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 #### "Using Behavioral Science to Improve Criminal Justice Outcomes"  [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]. 
   Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
     
-**Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
+**Media Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 
 
 
