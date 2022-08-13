@@ -24,6 +24,6 @@ For multi-year, muti-analysts/RA/PIs projects, it is very important to keep a cl
 ---
 * **Instrumental Variables** [[one-pager](http://bzdiop.github.io/files/Misc/CheatSheetIV_BZD.pdf)]  
 I created this cheat sheet for my graduate students struggling with IVs. It summarizes all the important concepts to remember when using or reading a paper that uses IVs.   
-* **Coding** (mainly Stata) [[useful resources for coders](http://bzdiop.github.io/files/Misc/stataResources_MSc_201201.pdf)]
+* **Coding** (mainly Stata) [[useful resources for coders](http://bzdiop.github.io/files/Misc/stataResources_MSc_201201.pdf)]  
 Stata/R have been around for quite some time and there exists a slew of resources out there and parsing those can be challenging especially if you don't have a specific question. In this document I compile a limited list of primers.  
 
