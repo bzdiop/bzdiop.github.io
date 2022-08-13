@@ -12,6 +12,7 @@ title: ""
   
 #### "The Productivity and Allocation of Labor across Ghana’s Health Facilities"  
 Binta Zahra Diop, Koku Awoonor-Williams, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [Martin J. Williams](https://www.martinjwilliams.com)  
+  
 **Summary**:  We use never-used-before administrative data covering all Ghana’s healthcare staff and facilities. We measure potential gains from reallocating labor across facilities while accounting for administrative constraints. We provide the first comprehensive estimate of a healthcare system production functions. We further explores the allocation of medical labor across vacancies and geographic areas. Finally, we identify complementarities across staff and assignments that contribute to better outcomes.  
   
 **Talks**: University of Johannesburg (2022), ODI PFI  (2020), WGAPE (2019).  
@@ -47,6 +48,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 
 #### "Using Behavioral Science to Improve Criminal Justice Outcomes"  [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]. 
   Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+    
 **Coverage**: Boston Globe, FastCompany,The American Bar Association Journal (ABA Journal),The Behavioral Scientist , NYDaily News, Metro, Courthouse News Service, CityLab.<br>
 
 
