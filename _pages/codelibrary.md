@@ -25,7 +25,7 @@ For multi-year, muti-analysts/RA/PIs projects, it is very important to keep a cl
 
 ### Cheat Sheets / Primers
 ---
-#### Instrumental Variables**
+#### Instrumental Variables
 [[one-pager](http://bzdiop.github.io/files/Misc/CheatSheetIV_BZD.pdf)]  
 I created this cheat sheet for my graduate students struggling with IVs. It summarizes all the important concepts to remember when using or reading a paper that uses IVs.   
 #### Coding (mainly Stata) 
