@@ -15,14 +15,14 @@ I am a PhD candidate at the [Department of Economics of the University of Oxford
   
 I use innovative micro-data and empirical methods founded in economic theory to study the drivers of internal migration choices and the matching of healthcare workers and facilities at the country level. My work aims to understand migration and location choices of people under constraints, both positive (driven by central policy choices) and normative (from fairness principles). Prior to starting my PhD, I was a senior data analyst at the [University of Chicago Urban Labs](https://urbanlabs.uchicago.edu/).  
   
-**I will be on the 2022-2023 Academic Job Market***. Here's my [[CV](http://bzdiop.github.io/files/AboutMe/CV.pdf)]. 
+**I will be on the 2022-2023 Academic Job Market**. Here's my [[CV](http://bzdiop.github.io/files/AboutMe/CV.pdf)]. 
  **Fields**: development Economics, labor economics, and public economics  
 
 
 ### Job Market Paper : 
 ---
 
-#### "The Migration Consequences of Input Subsidies" 
-_Coming Soon!_
+#### "[Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation.](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf)" 
+[[Click here for latest version](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf)]
 
-<p style='text-align: justify;'>  <b> Abstract</b>:   Rural anti-poverty interventions often focus on increasing agricultural investment and productivity. Yet, many farmers can invest in another technology: outmigration. I explore how one common class of interventions – input subsidy programs (ISPs) – can affect the adoption of either technology. First, I exploit the roll-out of an expansive Zambian ISP and a difference-in-differences strategy to show that the ISP fosters specialization into technology based on farmers' comparative advantage, increasing both agricultural yields and outmigration. Second, I estimate a structural model incorporating a positive learning externality related to fertilizer adoption to compare the ISP to alternative revenue-neutral policy counterfactuals. I find that an untargeted cash-transfer would increase migration relative to the ISP. When they target only the would-be beneficiaries of the ISP, both a cash-transfer and an ISP without resale markets would reduce migration. All three counterfactual policies reduce fertilizer use, and hinder the process of specialization.</p>
+<p style='text-align: justify;'>  <b> Abstract</b>:   Rural development programs often focus on increasing agricultural investment. Yet, many farmers can benefit from investing in a different  technology: outmigration. I explore how one common class of policies  – input subsidy programs (ISPs) – allows households to sort based on the relative returns of these two technologies. First, I exploit the roll-out of a large-scale Zambian ISP and use a difference-in-differences strategy. I show that the ISP fosters specialization by farmers based on their comparative advantage, resulting in increases in both agricultural yields and outmigration. Second, I estimate a structural model that incorporates a positive externality related to fertilizer adoption. With this externality, the ISP offers advantages relative to alternative revenue-neutral policy counterfactuals. Compared to an untargeted cash transfer, I find that an ISP that allows for re-selling of fertilizer would increase migration out of agriculture. A more targeted cash transfer, or an ISP without resale markets, would reduce migration. All three counterfactual policies reduce fertilizer use relative to the ISP and hinder the process of specialization.</p>
