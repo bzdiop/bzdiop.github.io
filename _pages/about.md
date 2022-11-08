@@ -17,7 +17,7 @@ I use innovative micro-data and empirical methods founded in economic theory to 
   
 **I will be on the 2022-2023 Academic Job Market**.  
 **Fields**: development economics, labor economics, and public economics  
-Here's my [[**CV**](http://bzdiop.github.io/files/AboutMe/CV.pdf)].  
+Here's my [[**CV**](http://bzdiop.github.io/files/AboutMe/Diop_CV.pdf)].  
 
 
 
