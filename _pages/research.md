@@ -29,7 +29,7 @@ Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé
 #### "The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study" (2020), BMJ Global Health 2020;5:e002699  [[paper](https://gh.bmj.com/content/5/5/e002699)]  
 Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 **Media Citations**: CNN Business, The Conversation, Quartz, allAfrica, The Independent, Le Point  
-**Talks**:  WHO TC Modeling Series (June 2020)  
+**Talks**:  World Health Organization (WHO) TC Modeling Series (June 2020)  
 <details style="padding-bottom:2px"> 
  <summary><b>Comparison between predictions and actual COVID19 progressions (click to uncover)</b></summary>
 <br style="line-height:0px;" /> 
