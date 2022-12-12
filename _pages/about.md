@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am a PhD candidate at the [Department of Economics of the University of Oxford](https://www.economics.ox.ac.uk/) and a PhD scholar at the Institute for fiscal studies ([IFS](https://ifs.org.uk/)).  
+I am a PhD candidate in [Economics of the University of Oxford](https://www.economics.ox.ac.uk/) and a PhD scholar at the Institute for fiscal studies ([IFS](https://ifs.org.uk/)).  
   
 I use innovative micro-data and empirical methods founded in economic theory to study the drivers of internal migration choices and the matching of healthcare workers and facilities at the country level. My work aims to understand migration and location choices of people under constraints, both positive (driven by central policy choices) and normative (from fairness principles).  
 
