@@ -9,8 +9,8 @@ main:
   - title: "Code and Tips"
     url: /codelibrary/     
     
-  - title: "Fun facts"
-    url: /misc/
+#  - title: "Fun facts"
+#    url: /misc/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
