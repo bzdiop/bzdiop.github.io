@@ -55,8 +55,8 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl�
 
 ### Policy Reports (Pre-PhD)  
 
-"**Using Behavioral Science to Improve Criminal Justice Outcomes**"  [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]. 
-  Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
+"**Using Behavioral Science to Improve Criminal Justice Outcomes**" [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]  
+Brice Cooke, Binta Zahra Diop, Alissa Fishbane, Jonathan Hayes, [Aurélie Ouss](http://aouss.github.io/), [Anuj K. Shah](https://www.chicagobooth.edu/faculty/directory/s/anuj-k-shah)  
 
 
 
