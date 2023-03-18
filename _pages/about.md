@@ -17,13 +17,8 @@ I am a PhD candidate in [Economics at the University of Oxford](https://www.econ
 ### Work in progress
 
 "**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
-<a href="https://bzdiop.github.io/files/JMP/Diop_JMP.pdf" target="_blank">Paper</a> | <a href="https://twitter.com/bzdiop/status/1590635155634675713" target="_blank">Twitter thread</a> 
-     | <a href="https://econtwitter.net/@bzdiop/109319384894004231" target="_blank">Mastodon thread</a>   
-<br>
-
-
-
-
+[Paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [Twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
+     | [Mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)  
 
   
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
