@@ -13,7 +13,7 @@ redirect_from:
 I am a PhD candidate in [Economics at the University of Oxford](https://www.economics.ox.ac.uk/) --- [CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf).
 
 
-
+<br>
 ### Work in progress
 
 "**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
@@ -29,7 +29,7 @@ Binta Zahra Diop, Koku Awoonor-Williams, [Hamza Ismaila](https://www.researchgat
 Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Ciss√©   
   
   
-
+<br>
 ### Publication
 
 "**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), BMJ Global Health 2020;5:e002699  [[paper](https://gh.bmj.com/content/5/5/e002699)]  
@@ -45,7 +45,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl√
 
 <br>
   </details>
-
+<br>
 ### Policy Reports (Pre-PhD)  
 
 "**Using Behavioral Science to Improve Criminal Justice Outcomes**" [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]  
