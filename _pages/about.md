@@ -44,10 +44,7 @@ Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Cl√
       <img src="/images/covidreality.png"> <br>
 
 <br>
-</p>
   </details>
-<br>
-
 
 ### Policy Reports (Pre-PhD)  
 
