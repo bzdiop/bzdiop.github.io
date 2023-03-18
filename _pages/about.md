@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a PhD candidate in [Economics at the University of Oxford](https://www.economics.ox.ac.uk/) --- [CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf).
+My work aims to understand migration and location choices of people under constraints, both positive (driven by central policy choices) and normative (from fairness principles) --- [[CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf)].
 
 
 <br>
@@ -22,18 +22,18 @@ I am a PhD candidate in [Economics at the University of Oxford](https://www.econ
 
   
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
-Binta Zahra Diop, Koku Awoonor-Williams, [Hamza Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [Anthony Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [Martin J. Williams](https://www.martinjwilliams.com)  
+BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com)  
 
   
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
-Binta Zahra Diop, [Amma Panin](http://ammapanin.com/), Moustapha Cissé   
+BZ Diop, [A Panin](http://ammapanin.com/), M Cissé   
   
   
 <br>
 ### Publication
 
 "**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), BMJ Global Health 2020;5:e002699  [[paper](https://gh.bmj.com/content/5/5/e002699)]  
-Binta Zahra Diop, [Marieme Ngom](https://www.anl.gov/profile/marieme-ngom), [Clémence Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [John N. Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
+BZ Diop, [M Ngom](https://www.anl.gov/profile/marieme-ngom), [C Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [JN Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)  
 <details> 
  <summary>Comparison between predictions and actual COVID19 progressions (click to uncover)</summary>
 <br style="line-height:0px;" /> 
