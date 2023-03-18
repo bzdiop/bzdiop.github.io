@@ -10,20 +10,17 @@ redirect_from:
 
 
 
-
 I am a PhD candidate in [Economics at the University of Oxford](https://www.economics.ox.ac.uk/) --- [CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf).
 
 
 
 ### Work in progress
 
-"**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**" [[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf)]  
-[[Twitter thread]](https://twitter.com/bzdiop/status/1590635155634675713), [[Mastodon thread]](https://econtwitter.net/@bzdiop/109319384894004231)  
-<p style='text-align: justify;'> Abstract:  </p>
-
-<div class="buttonbar">[ 
-    <button class="button" onclick="button(&quot;abs1&quot;)">abstract</button> 
-  ]</div> 
+"**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**" 
+<div>
+    <button class="button" onclick="abs1">Abstract</button> | <a href="[/files/Hsiao_palmoil](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf" target="_blank">Paper</a> | <a href="https://twitter.com/bzdiop/status/1590635155634675713" target="_blank">Twitter thread</a> 
+     | <a href="https://econtwitter.net/@bzdiop/109319384894004231" target="_blank">Mastodon thread</a>   
+ </div> 
   <div class="popup" id="abs1" style="display:none"> Rural development programs often focus on increasing agricultural investment. Yet, many farmers can benefit from investing in a different  technology: outmigration. I explore how one common class of policies — input subsidy programs (ISPs) — allows households to sort based on the relative returns of these two technologies. First, I exploit the roll-out of a large-scale Zambian ISP and use a difference-in-differences strategy. I show that the ISP fosters specialization by farmers based on their comparative advantage, resulting in increases in both agricultural yields and outmigration. Second, I estimate a structural model that incorporates a positive learning externality related to fertilizer adoption. With this externality, the ISP offers advantages relative to alternative revenue-neutral policy counterfactuals. Compared to an untargeted cash transfer, I find that an ISP that allows for re-selling of fertilizer would increase migration out of agriculture. A more targeted cash transfer, or an ISP without resale markets, would reduce migration. All three counterfactual policies reduce fertilizer use relative to the ISP and hinder the process of specialization.</div>
   <br>
 
