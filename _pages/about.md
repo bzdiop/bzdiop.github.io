@@ -11,8 +11,9 @@ redirect_from:
 
 
 My work aims to understand migration and location choices of people under constraints, both positive (driven by central policy choices) and normative (from fairness principles).  
-I will join Boston College as an Assistant Professor after two postdocs at the Stanford King Center and at the Yale EGC.  
-[[CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf)].
+I will join Boston College as an Assistant Professor after two postdocs at the Stanford King Center and at the Yale EGC --- [[CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf)].  
+   
+I am co-hostig a workshop on the [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/) with  [Maximillian Kasy](https://maxkasy.github.io/home/), and [Carlos Gonzalez Perez](https://presidente-carlos.github.io/). You can attend online or in person ! 
 
 
 <br>
