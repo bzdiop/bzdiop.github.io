@@ -17,7 +17,7 @@ My work aims to understand migration and location choices of people under constr
 ### Work in progress
 
 "**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
-<small>[<a [paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
+<small>[[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
      | [Mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)] </small>
 
 
