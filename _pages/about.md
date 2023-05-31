@@ -19,8 +19,7 @@ My work aims to understand migration and location choices of people under constr
 "**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
 <small>[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
      | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231) </small>  
-
-_Selected Conferences_: NBER SI (Dev, scheduled),EEA congress, MWIEDC, ES Africa Meeting, UEA Europe meeting.  
+_Selected Conferences_: NBER|SI (scheduled),EEA congress, MWIEDC, ES Africa Meeting, UEA Europe meeting.  
       
       
 <div id="UpgradeMigrate" style="display: none; text-align: justify; line-height: 1.2">
