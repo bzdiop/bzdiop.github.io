@@ -32,7 +32,7 @@ Rural development programs often focus on increasing agricultural investment. Ye
 
   
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
-<small> BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com) <br>  
+<small> BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com)<br>
 _Conferences_: WGAPE, ODI Public Finance.</small>    
   
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
