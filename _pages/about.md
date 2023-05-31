@@ -18,8 +18,8 @@ My work aims to understand migration and location choices of people under constr
 
 "**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
 <small>[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
-     | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231) </small>  
-_Selected Conferences_: NBER|SI (scheduled),EEA congress, MWIEDC, ES Africa Meeting, UEA Europe meeting.  
+     | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)<br>
+_Selected Conferences_: NBER|SI (scheduled),EEA congress, MWIEDC, ES Africa Meeting, UEA Europe meeting.</small>  
       
       
 <div id="UpgradeMigrate" style="display: none; text-align: justify; line-height: 1.2">
@@ -32,8 +32,8 @@ Rural development programs often focus on increasing agricultural investment. Ye
 
   
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
-<small> BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com) </small>  
-_Conferences_: WGAPE, ODI Public Finance.  
+<small> BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com) <br>  
+_Conferences_: WGAPE, ODI Public Finance.</small>    
   
 "**An experimental task to elicit preferences over definitions of algorithmic fairness**"  
 <small>BZ Diop, [A Panin](http://ammapanin.com/), M Cissé</small>   
