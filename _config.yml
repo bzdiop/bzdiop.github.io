@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Binta Zahra Diop"
 title_separator          : "-"
 name                     : &name "Binta Zahra Diop"
-description              : &description "PhD candidate, Department of Economics Economics"
+description              : &description "PhD candidate, Department of Economics"
 url                      : https://bzdiop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Binta Zahra Diop"
   avatar           : "avatar.jpg"
-  bio              : "PhD Candidate, Oxford"
+  bio              : "Posdoc, Stanford King (incoming)"
   location         : 
   employer         : "AP, Boston College (2025)"
   pubmed           : 
