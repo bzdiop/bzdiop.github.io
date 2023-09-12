@@ -17,9 +17,9 @@ My work aims to understand migration and location choices of people under constr
 ### Work in progress
 
 "**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
-<small>[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
-     | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)<br>
-_Selected Conferences_: NBER SI, EEA congress, MWIEDC, ES Africa meeting, UEA Europe meeting.</small>  
+<small>[[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
+     | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)]<br>
+<!-- _Selected Conferences_: NBER SI, EEA congress, MWIEDC, ES Africa meeting, UEA Europe meeting.</small> -->  
       
       
 <div id="UpgradeMigrate" style="display: none; text-align: justify; line-height: 1.2">
@@ -33,7 +33,7 @@ Rural development programs often focus on increasing agricultural investment. Ye
   
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
 <small> BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com)<br>
-_Conferences_: WGAPE, ODI Public Finance.</small>    
+<!-- _Conferences_: WGAPE, ODI Public Finance.</small> -->    
   
 "**An Experimental Task to Elicit Preferences Over Definitions of Algorithmic Fairness**"  
 <small>BZ Diop, [A Panin](http://ammapanin.com/), M Cissé</small>   
@@ -42,7 +42,7 @@ _Conferences_: WGAPE, ODI Public Finance.</small>
 <br>
 ### Publication
 
-"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), BMJ Global Health 2020;5:e002699  [[paper](https://gh.bmj.com/content/5/5/e002699)]  
+"**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), BMJ Global Health [[paper](https://gh.bmj.com/content/5/5/e002699)]  
 <small>BZ Diop, [M Ngom](https://www.anl.gov/profile/marieme-ngom), [C Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [JN Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)</small>  
 <details> 
  <summary>Comparison between predictions and actual COVID19 progressions (click to uncover)</summary>
