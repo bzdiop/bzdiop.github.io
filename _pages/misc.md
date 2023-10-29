@@ -6,8 +6,8 @@ title: ""
 I do/did a lot of very random things. And here's a sneak peak: 
 
 #### Conference Hosting
-2023 -- Conference on the "Social foundations for statistics and machine learning" (with [Maximilian Kasy](https://maxkasy.github.io/home/) and [Carlos Gonzalez Perez](https://presidente-carlos.github.io/))  
-2021 -- Conference on "Machine learning and economic inequality", with Prof. [Maximilian Kasy](https://maxkasy.github.io/home/).  
+2023 -- Conference on the "Social foundations for statistics and ML" (with [Prof. Kasy](https://maxkasy.github.io/home/) and [C. Gonzalez Perez](https://presidente-carlos.github.io/))  
+2021 -- Conference on "Machine learning and economic inequality", with Prof. Kasy.  
 2022 -- ML and Economics day at the Oxford Department of Economics' [Research Jamboree 2022](https://www.economics.ox.ac.uk/research-jamboree-2022) (with Prof. Kasy).  
 
 #### Photography 
