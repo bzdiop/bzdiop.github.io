@@ -12,7 +12,7 @@ redirect_from:
 
 My work aims to understand migration and location choices of people under constraints, both positive (driven by central policy choices) and normative (from fairness principles). I will join Boston College as an Assistant Professor after two postdocs at the Stanford King Center and at the Yale EGC --- [**[CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf)**].  
 
-_my name is Binta Zahra Diop, I do go by Binta or Zahra or any combination of the two, but in writing (or saying) my name in full it is Binta Zahra Diop_. 
+_my name is Binta Zahra Diop, I do go by Binta or Zahra or any combination of the two, but my name in full written or said is Binta Zahra Diop_. 
 
 <br>
 ### Work in progress
