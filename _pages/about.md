@@ -11,18 +11,7 @@ redirect_from:
 
 <script>
 
-  button {
-  background: none!important;
-  border: none;
-  padding: 0!important;
-  /*optional*/
-  font-family: arial, sans-serif;
-  /*input has OS specific font-family*/
-  color: #069;
-  text-decoration: underline;
-  cursor: pointer;
-}
-  
+
 function button(id) {
   var x = document.getElementById(id);
   var ids = ["UpgradeMigrate"];
