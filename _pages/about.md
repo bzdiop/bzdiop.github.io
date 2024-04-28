@@ -12,7 +12,7 @@ redirect_from:
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "sum1", "sum2", "sum3"];
+  var ids = ["UpgradeMigrate"];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
