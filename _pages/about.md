@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 <link rel="stylesheet" type="text/css" href="style.css" />
-
+<script>
+  
 button {
   align-items: normal;
   background-color: rgba(0,0,0,0);
@@ -31,7 +32,7 @@ button {
   -webkit-logical-width: auto; /* Chrome ignores auto, but here for completeness */
 }
 
-<script>
+
 
 function button(id) {
   var x = document.getElementById(id);
