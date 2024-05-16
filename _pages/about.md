@@ -66,7 +66,7 @@ Rural development programs often focus on increasing agricultural investment. Ye
 ### Publication
 
 "**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), BMJ Global Health [[paper](https://gh.bmj.com/content/5/5/e002699)]  
-<small>BZ Diop, [M Ngom](https://www.anl.gov/profile/marieme-ngom), [C Pougué Biyong](https://www.pantheonsorbonne.fr/page-perso/e1904015601), [JN Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)</small>  
+<small>BZ Diop, [M Ngom](https://www.anl.gov/profile/marieme-ngom), [C Pougué Biyong](https://pouguebiyongc.github.io/), [JN Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)</small>  
 <details> 
  <summary>Comparison between predictions and actual COVID19 progressions (click to uncover)</summary>
 <br style="line-height:0px;" /> 
