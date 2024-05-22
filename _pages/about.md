@@ -42,7 +42,6 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 "**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
 [[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
      | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)]
-     <br style="line-height:-1px;" />
      <details> 
  <summary>abstract</summary>
 <br style="line-height:0px;" /> 
@@ -52,17 +51,7 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 
 <br>
   </details>
-<br>
-
-     
-  
 <!-- _Selected Conferences_: NBER SI, EEA congress, MWIEDC, ES Africa meeting, UEA Europe meeting.</small> -->  
-      
-
-
-
-
-  
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
 <small> BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com)<br>
 <!-- _Conferences_: WGAPE, ODI Public Finance.</small> -->    
@@ -87,6 +76,8 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 
 <br>
   </details>
+
+  
 ### Policy Reports (Pre-PhD)  
 
 "**Using Behavioral Science to Improve Criminal Justice Outcomes**" [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]  
