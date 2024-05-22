@@ -43,7 +43,7 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 [[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
      | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)] 
   <details> 
- <summary>abstract(click to uncover)</summary>
+ <summary>abstract</summary>
 <br style="line-height:0px;" /> 
       <br>
        <small> Rural development programs often focus on increasing agricultural investment. Yet, many farmers can benefit from investing in a different  technology: outmigration. I explore how one common class of policies --- input subsidy programs (ISPs) --- allows households to sort based on the relative returns of these two technologies. First, I exploit area-by-year variations in the roll-out of a large-scale Zambian ISP and use a difference-in-differences strategy. I show that the ISP fosters specialization by farmers based on their comparative advantage, resulting in increases in both agricultural yields and outmigration. Second, I estimate a structural model that incorporates a positive learning externality related to fertilizer adoption. With this externality, the ISP offers advantages relative to alternative revenue-neutral policy counterfactuals. Compared to an untargeted cash transfer, I find that an ISP that allows for re-selling of fertilizer would increase migration out of agriculture. A more targeted cash transfer, or an ISP without resale markets, would reduce migration. All three counterfactual policies reduce fertilizer use relative to the ISP and hinder the process of specialization. </small>
@@ -74,7 +74,8 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 ### Publication
 
 "**The relatively young and rural population may limit the spread and severity of Covid-19 in Africa: a modelling study**" (2020), BMJ Global Health [[paper](https://gh.bmj.com/content/5/5/e002699)]  
-<small>BZ Diop, [M Ngom](https://www.anl.gov/profile/marieme-ngom), [C Pougué Biyong](https://pouguebiyongc.github.io/), [JN Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)</small>  
+<small>BZ Diop, [M Ngom](https://www.anl.gov/profile/marieme-ngom), [C Pougué Biyong](https://pouguebiyongc.github.io/), [JN Pougué Biyong](https://www.inet.ox.ac.uk/people/john-pougu%C3%A9-biyong/)</small> 
+<p style=”padding: 0px; margin: 0px;”>
 <details> 
  <summary>Comparison between predictions and actual COVID19 progressions (click to uncover)</summary>
 <br style="line-height:0px;" /> 
@@ -86,7 +87,7 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 
 <br>
   </details>
-<br>
+</p>
 ### Policy Reports (Pre-PhD)  
 
 "**Using Behavioral Science to Improve Criminal Justice Outcomes**" [[paper](http://theslab.uchicago.edu/anuj/uploads/summons.pdf)]  
