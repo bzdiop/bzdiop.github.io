@@ -39,7 +39,7 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 <br>
 ### Work in progress
 
-"**Upgrade or Migrate: The Consequences of Input Subsidies on Household Labor Allocation**"  
+"**Upgrade or Migrate: The Consequences of Fertilizer Subsidies on Household Labor Allocation**"  
 [[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
      | [mastodon thread](https://econtwitter.net/@bzdiop/109319384894004231)]
 <details> 
