@@ -37,7 +37,7 @@ My work aims to understand migration and location choices of people under constr
 _If you are referring to me on a 'first-name-basis', please call me "Binta" or "Zahra". If you need to use my full name, please use "**Binta Zahra Diop**". Diop is pronounced j-oh-b / joob._
 
 <br>
-### Work in progress
+### Selected work in progress
 
 "**Upgrade or Migrate: The Consequences of Fertilizer Subsidies on Household Labor Allocation**"  
 [[paper](https://bzdiop.github.io/files/JMP/Diop_JMP.pdf) | [twitter thread](https://twitter.com/bzdiop/status/1590635155634675713)
