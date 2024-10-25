@@ -55,7 +55,14 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 "**The Productivity and Allocation of Labor across Ghana’s Health Facilities**"  
 <small> BZ Diop, K Awoonor-Williams, [H Ismaila](https://www.researchgate.net/profile/Hamza_Ismaila), [A Ofosu](https://www.researchgate.net/profile/Anthony_Ofosu),  [MJ Williams](https://www.martinjwilliams.com)<br>
 <!-- _Conferences_: WGAPE, ODI Public Finance.</small> -->    
-  
+  <details> 
+  <summary>abstract</summary>
+<br style="line-height:0px;" /> 
+       <small> We study the productivity of healthcare labor in Ghana with a unique administrative panel of over 9,000 health facilities, and 100,000 workers from 2014 to 2019. First, we use an event study design to estimate the effect of a marginal change in the number of nurses on measures of healthcare outcomes in small rural facilities. We find that the addition of one nurse significantly increases the quantity of services delivered, but productivity per worker decreases. Second, we assume a structure of the production function of healthcare in larger facilities to estimate the elasticities of outputs for a range of healthcare workers and facilities. We find a zero outpatient elasticity of labor. However, other measures of output, such as maternal health visits and antenatal care visits (for which there is an outside option of home delivery) show high elasticity of output with respect to labor staffing and capital. We also find that quality measures of health show high responsiveness to nurses. Our findings provide some of the first estimates of the marginal productivity of health workers at the level of an entire national healthcare system, and suggest that large potential improvements in the allocation of labor and capital may be possible.  </small> <br>
+
+<br>
+  </details>
+<br>
 "**An Experiment to Elicit Preferences Over Definitions of Algorithmic Fairness**"  
 <small>BZ Diop, [A Panin](http://ammapanin.com/), M Cissé</small>   
   
