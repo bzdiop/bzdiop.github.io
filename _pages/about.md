@@ -64,7 +64,7 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
   </details>
 <br>
 "**An Experiment to Elicit Preferences Over Definitions of Algorithmic Fairness**"  
-<small>BZ Diop, [A Panin](http://ammapanin.com/), M Cissé</small>   
+<small>BZ Diop, [A Panin](http://ammapanin.com/), [E Kemel](https://sites.google.com/site/researchemmanuelkemel/home?authuser=0), M Cissé</small>   
   
   
 <br>
