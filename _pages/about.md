@@ -44,7 +44,7 @@ _If you are referring to me on a 'first-name-basis', please call me "Binta" or "
 <details> 
   <summary>abstract</summary>
 <br style="line-height:0px;" /> 
-       <small> Rural development programs often emphasize investments in agriculture, but farmers may instead prefer to divest and leave. I explore how input subsidy programs allow adjustments across two margins: agricultural upgrades and out-migration. Using a large-scale Zambian program and a difference-in-differences design, I find that subsidies increased both fertilizer adoption (upgrades, +79%) and out-migration (+12%). Out-migration rose, funded by farmers re-selling subsidized inputs in the short term (+11%) and using income from productivity gains in the medium term (+14%). Estimates from a choice model show that resales efficiently reallocate fertilizer, and that the ISP achieved higher agricultural upgrades than revenue-neutral cash-transfers. </small> <br>
+       <small> Rural development programs often emphasize investments in agriculture, but farmers may prefer to divest and leave. I explore how input subsidy programs (ISP) affect two margins of structural transformation: agricultural technology upgrades and out-migration. I show that a large-scale Zambian ISP increased upgrades (+25pp) and out-migration (+5pp). Out-migration increased driven by short-term input resale and medium-term productivity gains. The presence of resale markets changes the evaluation of ISPs relative to common anti-poverty policies. I estimate a choice model and show that resales efficiently reallocate fertilizer making ISPs reach higher upgrades than revenue-neutral cash transfers while achieving similar incomes gains. </small> <br>
 
 <br>
   </details>
