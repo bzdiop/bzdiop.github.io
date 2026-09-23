@@ -31,7 +31,7 @@ function button(id) {
 </script> 
 
 
-I am a Kuznets Postdoctoral Associate at Yale EGC. I will join Boston College as an Assistant Professor in 2025 --- [**[CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf)**].  
+I am an Assistant Professor in Economics at Boston College --- [**[CV](https://bzdiop.github.io/files/AboutMe/Diop_CV.pdf)**].  
 
 _If you are referring to me on a 'first-name-basis', please call me "Binta" or "Zahra". If you need to use my full name, please use "**Binta Zahra Diop**". Diop is pronounced j-oh-b / joob._
 
